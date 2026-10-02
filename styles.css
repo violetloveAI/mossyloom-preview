@@ -15,3 +15,20 @@
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
 @media(min-width:761px){.preppy-hero>h1 em{margin-left:.2em}:root[data-style="2"] .dopamine-hero+.ticker+.collection-section .product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 .brand-boutique{background:var(--paper);border-radius:8px}
+@media(max-width:760px){html[lang="zh-CN"] .quiet-copy h1 br:nth-child(2){display:initial}html[lang="zh-CN"] .boutique-letter{width:139px;font-size:16px}}
+/* Carry each storefront's composition into the shopping pages. */
+:root[data-style="1"] .commerce .btn{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+:root[data-style="2"] .product-info{background:#F56B9D;padding:28px;border:2px solid var(--accent)}
+:root[data-style="2"] .product-main-image{border:2px solid var(--accent)}
+:root[data-style="2"] .product-info>h1{font-weight:900;text-transform:uppercase}
+:root[data-style="2"] .commerce .btn{background:#39FF14;border-color:var(--ink);color:var(--ink);box-shadow:3px 3px 0 var(--ink)}
+:root[data-style="2"] .commerce-summary{background:#FFFDE7;border:2px solid var(--ink)}
+:root[data-style="3"] .product-info{border-top:3px double var(--ink);padding-top:26px}
+:root[data-style="3"] .product-gallery{padding:12px;background:var(--paper);box-shadow:0 4px 18px #1A2B4C0b}
+:root[data-style="3"] .commerce-heading{border-bottom:3px double var(--ink);padding-bottom:24px}
+:root[data-style="3"] .commerce .btn{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+:root[data-style="4"] .product-main-image{border-radius:160px 160px 16px 16px;border:10px solid var(--paper)}
+:root[data-style="4"] .commerce-summary,:root[data-style="4"] .commerce-account-grid>article,:root[data-style="4"] .commerce-order-card{background:var(--paper);border-radius:22px}
+:root[data-style="4"] .product-thumbs button{border-radius:9px}
+@media(min-width:901px){:root[data-style="3"] .product-detail-grid{grid-template-columns:.9fr 1.1fr}:root[data-style="3"] .product-info{order:-1}:root[data-style="3"] .cart-view .commerce-two-column{grid-template-columns:350px minmax(0,1fr)}:root[data-style="3"] .cart-view .commerce-summary{order:-1}}
+@media(max-width:760px){:root[data-style="2"] .product-info{padding:22px 17px}:root[data-style="2"] .product-info>h1{font-size:32px}:root[data-style="4"] .product-main-image{border-width:7px;border-radius:130px 130px 12px 12px}}
