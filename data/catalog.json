@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "everyday-rib-scarf",
+    "name": "The Everyday Rib Scarf",
+    "nameZh": "日常罗纹围巾",
+    "category": "Scarves",
+    "price": 48,
+    "currency": "USD",
+    "color": "Cherry",
+    "colors": [
+      "Cherry",
+      "Sky",
+      "Deep Blue",
+      "Forest"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/everyday-rib-scarf-01.webp",
+      "assets/products/everyday-rib-scarf-02.webp",
+      "assets/products/everyday-rib-scarf-03.webp",
+      "assets/products/everyday-rib-scarf-04.webp",
+      "assets/products/everyday-rib-scarf-05.webp",
+      "assets/products/everyday-rib-scarf-06.webp",
+      "assets/products/everyday-rib-scarf-07.webp"
+    ],
+    "thumbnail": "assets/products/everyday-rib-scarf-01-small.webp",
+    "description": "A simple ribbed finish and a long, clean silhouette. Wrap once over a jacket or let the ends fall loose.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Everyday edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "840033424253",
+      "url": "http://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cherry",
+        "hex": "#94242c",
+        "image": "assets/products/everyday-rib-scarf-01.webp"
+      },
+      {
+        "name": "Sky",
+        "hex": "#a8bdd2",
+        "image": "assets/products/everyday-rib-scarf-02.webp"
+      },
+      {
+        "name": "Deep Blue",
+        "hex": "#144260",
+        "image": "assets/products/everyday-rib-scarf-03.webp"
+      },
+      {
+        "name": "Forest",
+        "hex": "#3a654a",
+        "image": "assets/products/everyday-rib-scarf-04.webp"
+      }
+    ],
+    "descriptionZh": "简洁的罗纹肌理，利落的长围巾廓形。可以绕一圈搭配外套，也可以让两端自然垂落。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "cloud-fringe-scarf",
+    "name": "The Cloud Fringe Scarf",
+    "nameZh": "云感流苏围巾",
+    "category": "Scarves",
+    "price": 54,
+    "currency": "USD",
+    "color": "Glacier",
+    "colors": [
+      "Glacier",
+      "Oat",
+      "Butter",
+      "Moss"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/cloud-fringe-scarf-01.webp",
+      "assets/products/cloud-fringe-scarf-02.webp",
+      "assets/products/cloud-fringe-scarf-03.webp",
+      "assets/products/cloud-fringe-scarf-04.webp",
+      "assets/products/cloud-fringe-scarf-05.webp",
+      "assets/products/cloud-fringe-scarf-06.webp",
+      "assets/products/cloud-fringe-scarf-07.webp",
+      "assets/products/cloud-fringe-scarf-08.webp"
+    ],
+    "thumbnail": "assets/products/cloud-fringe-scarf-01-small.webp",
+    "description": "An airy-looking texture, generous length and soft fringe. A quiet statement for a layered winter wardrobe.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "The soft edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "758587460197",
+      "url": "http://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Glacier",
+        "hex": "#8eb9cb",
+        "image": "assets/products/cloud-fringe-scarf-01.webp"
+      },
+      {
+        "name": "Oat",
+        "hex": "#e0dbcb",
+        "image": "assets/products/cloud-fringe-scarf-02.webp"
+      },
+      {
+        "name": "Butter",
+        "hex": "#ddcf9a",
+        "image": "assets/products/cloud-fringe-scarf-03.webp"
+      },
+      {
+        "name": "Moss",
+        "hex": "#a5ac72",
+        "image": "assets/products/cloud-fringe-scarf-04.webp"
+      }
+    ],
+    "descriptionZh": "轻盈的长款轮廓，配上柔和流苏，为秋冬叠搭留一点松弛感。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "foldover-beanie",
+    "name": "The Foldover Beanie",
+    "nameZh": "翻边针织帽",
+    "category": "Hats",
+    "price": 32,
+    "currency": "USD",
+    "color": "Cornflower",
+    "colors": [
+      "Cornflower",
+      "Cream",
+      "Butter",
+      "Cocoa"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/foldover-beanie-01.webp",
+      "assets/products/foldover-beanie-02.webp",
+      "assets/products/foldover-beanie-03.webp",
+      "assets/products/foldover-beanie-04.webp",
+      "assets/products/foldover-beanie-05.webp",
+      "assets/products/foldover-beanie-06.webp",
+      "assets/products/foldover-beanie-07.webp"
+    ],
+    "thumbnail": "assets/products/foldover-beanie-01-small.webp",
+    "description": "A rounded crown with a generous turned-up brim. Wear the fold high or low to change the proportions.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Easy layers",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "979430423093",
+      "url": "http://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cornflower",
+        "hex": "#8b9cca",
+        "image": "assets/products/foldover-beanie-01.webp"
+      },
+      {
+        "name": "Cream",
+        "hex": "#e2dfcd",
+        "image": "assets/products/foldover-beanie-02.webp"
+      },
+      {
+        "name": "Butter",
+        "hex": "#cfbd73",
+        "image": "assets/products/foldover-beanie-03.webp"
+      },
+      {
+        "name": "Cocoa",
+        "hex": "#443431",
+        "image": "assets/products/foldover-beanie-04.webp"
+      }
+    ],
+    "descriptionZh": "翻边针织帽，轮廓简洁。翻折帽沿，为日常穿搭加一点颜色。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "everyday-knit-gloves",
+    "name": "The Everyday Knit Gloves",
+    "nameZh": "日常针织手套",
+    "category": "Gloves",
+    "price": 28,
+    "currency": "USD",
+    "color": "Blue",
+    "colors": [
+      "Blue",
+      "Oxblood",
+      "Cream"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/everyday-knit-gloves-01.webp",
+      "assets/products/everyday-knit-gloves-02.webp",
+      "assets/products/everyday-knit-gloves-03.webp",
+      "assets/products/everyday-knit-gloves-04.webp",
+      "assets/products/everyday-knit-gloves-05.webp",
+      "assets/products/everyday-knit-gloves-06.webp",
+      "assets/products/everyday-knit-gloves-07.webp"
+    ],
+    "thumbnail": "assets/products/everyday-knit-gloves-01-small.webp",
+    "description": "Long cuffs and a classic five-finger shape, shown in a playful layered wardrobe. Styling and fit are for preview.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Finishing touches",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "827746529066",
+      "url": "http://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Blue",
+        "hex": "#7ca4b3",
+        "image": "assets/products/everyday-knit-gloves-01.webp"
+      },
+      {
+        "name": "Oxblood",
+        "hex": "#792435",
+        "image": "assets/products/everyday-knit-gloves-02.webp"
+      },
+      {
+        "name": "Cream",
+        "hex": "#ddd7c3",
+        "image": "assets/products/everyday-knit-gloves-03.webp"
+      }
+    ],
+    "descriptionZh": "基础针织手套，与围巾和帽子搭配，给日常添一份完整感。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "weekend-stripe-scarf",
+    "name": "The Weekend Stripe Scarf",
+    "nameZh": "周末条纹围巾",
+    "category": "Scarves",
+    "price": 52,
+    "currency": "USD",
+    "color": "Cherry stripe",
+    "colors": [
+      "Cherry stripe",
+      "Green stripe",
+      "Camel stripe",
+      "Ink stripe"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/weekend-stripe-scarf-01.webp",
+      "assets/products/weekend-stripe-scarf-02.webp",
+      "assets/products/weekend-stripe-scarf-03.webp",
+      "assets/products/weekend-stripe-scarf-04.webp",
+      "assets/products/weekend-stripe-scarf-05.webp",
+      "assets/products/weekend-stripe-scarf-06.webp"
+    ],
+    "thumbnail": "assets/products/weekend-stripe-scarf-01-small.webp",
+    "description": "Graphic stripes bring a little rhythm to everyday layers. A long scarf with a neat ribbed finish.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Stripe study",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "846384678128",
+      "url": "http://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cherry stripe",
+        "hex": "#a03139",
+        "image": "assets/products/weekend-stripe-scarf-01.webp"
+      },
+      {
+        "name": "Green stripe",
+        "hex": "#437f54",
+        "image": "assets/products/weekend-stripe-scarf-02.webp"
+      },
+      {
+        "name": "Camel stripe",
+        "hex": "#b3926d",
+        "image": "assets/products/weekend-stripe-scarf-03.webp"
+      },
+      {
+        "name": "Ink stripe",
+        "hex": "#242723",
+        "image": "assets/products/weekend-stripe-scarf-04.webp"
+      }
+    ],
+    "descriptionZh": "明快的条纹围巾，让简单的衬衫和外套也有了轻松的表情。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "roll-edge-beanie",
+    "name": "The Roll-Edge Beanie",
+    "nameZh": "卷边针织帽",
+    "category": "Hats",
+    "price": 30,
+    "currency": "USD",
+    "color": "Blue mist",
+    "colors": [
+      "Blue mist",
+      "Charcoal",
+      "Stone",
+      "Cream"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/roll-edge-beanie-01.webp",
+      "assets/products/roll-edge-beanie-02.webp",
+      "assets/products/roll-edge-beanie-03.webp",
+      "assets/products/roll-edge-beanie-04.webp",
+      "assets/products/roll-edge-beanie-05.webp",
+      "assets/products/roll-edge-beanie-06.webp",
+      "assets/products/roll-edge-beanie-07.webp"
+    ],
+    "thumbnail": "assets/products/roll-edge-beanie-01-small.webp",
+    "description": "A close, simple profile and a gently rolled edge. The understated finish makes it easy to pair with patterned scarves.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Quiet essentials",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "985455179031",
+      "url": "http://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Blue mist",
+        "hex": "#8eacc7",
+        "image": "assets/products/roll-edge-beanie-01.webp"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#343638",
+        "image": "assets/products/roll-edge-beanie-02.webp"
+      },
+      {
+        "name": "Stone",
+        "hex": "#939392",
+        "image": "assets/products/roll-edge-beanie-03.webp"
+      },
+      {
+        "name": "Cream",
+        "hex": "#e3dccc",
+        "image": "assets/products/roll-edge-beanie-04.webp"
+      }
+    ],
+    "descriptionZh": "自然卷边的帽沿，保留随性的针织形态，适合轻松出门的一天。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "color-study-scarf",
+    "name": "The Colour Study Scarf",
+    "nameZh": "撞色绒感围巾",
+    "category": "Scarves",
+    "price": 46,
+    "currency": "USD",
+    "color": "Blue & lime",
+    "colors": [
+      "Blue & lime",
+      "Pink & olive",
+      "Mint & cream",
+      "Teal mix"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/color-study-scarf-01.webp",
+      "assets/products/color-study-scarf-02.webp",
+      "assets/products/color-study-scarf-03.webp",
+      "assets/products/color-study-scarf-04.webp",
+      "assets/products/color-study-scarf-05.webp",
+      "assets/products/color-study-scarf-06.webp"
+    ],
+    "thumbnail": "assets/products/color-study-scarf-01-small.webp",
+    "description": "Unexpected stripes and a brushed-looking surface. Choose this one when the rest of the outfit is keeping things simple.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "A little rebellion",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "970422787632",
+      "url": "http://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Blue & lime",
+        "hex": "#8fac9e",
+        "image": "assets/products/color-study-scarf-01.webp"
+      },
+      {
+        "name": "Pink & olive",
+        "hex": "#936e78",
+        "image": "assets/products/color-study-scarf-02.webp"
+      },
+      {
+        "name": "Mint & cream",
+        "hex": "#b5c8a8",
+        "image": "assets/products/color-study-scarf-03.webp"
+      },
+      {
+        "name": "Teal mix",
+        "hex": "#376d73",
+        "image": "assets/products/color-study-scarf-04.webp"
+      }
+    ],
+    "descriptionZh": "大胆的色彩与条纹碰撞，把普通穿搭变成一件快乐的小事。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "library-check-scarf",
+    "name": "The Library Check Scarf",
+    "nameZh": "图书馆格纹围巾",
+    "category": "Scarves",
+    "price": 49,
+    "currency": "USD",
+    "color": "Cocoa check",
+    "colors": [
+      "Cocoa check"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/library-check-scarf-01.webp",
+      "assets/products/library-check-scarf-02.webp",
+      "assets/products/library-check-scarf-03.webp",
+      "assets/products/library-check-scarf-04.webp",
+      "assets/products/library-check-scarf-05.webp"
+    ],
+    "thumbnail": "assets/products/library-check-scarf-01-small.webp",
+    "description": "Small-scale checks, a dark grounded palette and fringe at the ends. Made for the look of a favourite library afternoon.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "The library edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "979622650557",
+      "url": "http://detail.1688.com/offer/979622650557.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cocoa check",
+        "hex": "#49423d",
+        "image": "assets/products/library-check-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "经典格纹，适合搭配针织衫和外套，带一点图书馆的安静气质。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "argyle-skinny-scarf",
+    "name": "The Argyle Skinny Scarf",
+    "nameZh": "菱格细长围巾",
+    "category": "Scarves",
+    "price": 42,
+    "currency": "USD",
+    "color": "Coffee",
+    "colors": [
+      "Coffee"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/argyle-skinny-scarf-01.webp",
+      "assets/products/argyle-skinny-scarf-02.webp",
+      "assets/products/argyle-skinny-scarf-03.webp",
+      "assets/products/argyle-skinny-scarf-04.webp",
+      "assets/products/argyle-skinny-scarf-05.webp"
+    ],
+    "thumbnail": "assets/products/argyle-skinny-scarf-01-small.webp",
+    "description": "A narrow, long silhouette with diamond patterning and fringe. An expressive finishing layer over a plain knit.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Archive shapes",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "848993060059",
+      "url": "http://detail.1688.com/offer/848993060059.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Coffee",
+        "hex": "#655044",
+        "image": "assets/products/argyle-skinny-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "修长的菱格针织围巾，用一条细节为日常搭配加上自己的批注。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "woodland-jacquard-scarf",
+    "name": "The Woodland Jacquard Scarf",
+    "nameZh": "林间提花围巾",
+    "category": "Scarves",
+    "price": 44,
+    "currency": "USD",
+    "color": "Midnight",
+    "colors": [
+      "Midnight",
+      "Brown"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/woodland-jacquard-scarf-01.webp",
+      "assets/products/woodland-jacquard-scarf-02.webp",
+      "assets/products/woodland-jacquard-scarf-03.webp",
+      "assets/products/woodland-jacquard-scarf-04.webp",
+      "assets/products/woodland-jacquard-scarf-05.webp",
+      "assets/products/woodland-jacquard-scarf-06.webp"
+    ],
+    "thumbnail": "assets/products/woodland-jacquard-scarf-01-small.webp",
+    "description": "Tiny motifs and a woodland-inspired border bring a storybook note to a winter outfit. A playful, narrow scarf.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Woodland notes",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "980661845664",
+      "url": "http://detail.1688.com/offer/980661845664.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Midnight",
+        "hex": "#242b2f",
+        "image": "assets/products/woodland-jacquard-scarf-01.webp"
+      },
+      {
+        "name": "Brown",
+        "hex": "#594145",
+        "image": "assets/products/woodland-jacquard-scarf-02.webp"
+      }
+    ],
+    "descriptionZh": "针织提花图案为围巾增加趣味，与纯色上衣搭配就很有表情。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "triangle-neck-scarf",
+    "name": "The Triangle Neck Scarf",
+    "nameZh": "三角针织围巾",
+    "category": "Scarves",
+    "price": 38,
+    "currency": "USD",
+    "color": "Cobalt",
+    "colors": [
+      "Cobalt"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/triangle-neck-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/triangle-neck-scarf-01-small.webp",
+    "description": "A triangular scarf shown tied around the head. Fold and knot it as a compact layer for a different silhouette.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Small rituals",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "969378414927",
+      "url": "http://detail.1688.com/offer/969378414927.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cobalt",
+        "hex": "#2760ac",
+        "image": "assets/products/triangle-neck-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "轻巧的三角领巾，可以在肩颈间变化搭法，让层次更有趣。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "short-rib-scarf",
+    "name": "The Short Rib Scarf",
+    "nameZh": "短款罗纹围巾",
+    "category": "Scarves",
+    "price": 39,
+    "currency": "USD",
+    "color": "Powder blue",
+    "colors": [
+      "Powder blue"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/short-rib-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/short-rib-scarf-01-small.webp",
+    "description": "A compact proportion, a textured rib and an easy loop around the neck. A gentle pop of colour for everyday layers.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Daily colour",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "972728833958",
+      "url": "http://detail.1688.com/offer/972728833958.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Powder blue",
+        "hex": "#89c1d8",
+        "image": "assets/products/short-rib-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "短款罗纹围巾，体量轻巧，适合想要一点颜色又不想太厚重的时候。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "blush-loop-scarf",
+    "name": "The Blush Loop Scarf",
+    "nameZh": "浅粉环绕围巾",
+    "category": "Scarves",
+    "price": 44,
+    "currency": "USD",
+    "color": "Blush",
+    "colors": [
+      "Blush"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/blush-loop-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/blush-loop-scarf-01-small.webp",
+    "description": "A long, simple scarf shown as a head-and-neck wrap. The pale tone pairs easily with winter neutrals.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "The soft edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "826239970771",
+      "url": "http://detail.1688.com/offer/826239970771.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Blush",
+        "hex": "#e7cbd0",
+        "image": "assets/products/blush-loop-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "柔和的浅粉色与长围巾轮廓，给简单的穿搭添一点轻柔的感觉。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "rose-fringe-scarf",
+    "name": "The Rose Fringe Scarf",
+    "nameZh": "玫粉流苏围巾",
+    "category": "Scarves",
+    "price": 47,
+    "currency": "USD",
+    "color": "Rose",
+    "colors": [
+      "Rose"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/rose-fringe-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/rose-fringe-scarf-01-small.webp",
+    "description": "A generous scarf with long fringe and a bright rose tone. One expressive piece for a calm, layered wardrobe.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Colour crush",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "738350180480",
+      "url": "http://detail.1688.com/offer/738350180480.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Rose",
+        "hex": "#cc71a8",
+        "image": "assets/products/rose-fringe-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "玫瑰粉与流苏的组合。把亮色留在围巾上，让日常变得有一点不同。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "cobalt-rib-scarf",
+    "name": "The Cobalt Rib Scarf",
+    "nameZh": "亮蓝罗纹围巾",
+    "category": "Scarves",
+    "price": 49,
+    "currency": "USD",
+    "color": "Cobalt",
+    "colors": [
+      "Cobalt"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/cobalt-rib-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/cobalt-rib-scarf-01-small.webp",
+    "description": "A vivid blue and a clean ribbed surface. Let the length frame a coat or wrap it into a shorter shape.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Bright ideas",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "975664757443",
+      "url": "http://detail.1688.com/offer/975664757443.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cobalt",
+        "hex": "#0580b8",
+        "image": "assets/products/cobalt-rib-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "鲜明的蓝色配上简洁罗纹，是一件容易成为穿搭重点的小物。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "slim-fringe-scarf",
+    "name": "The Slim Fringe Scarf",
+    "nameZh": "细流苏围巾",
+    "category": "Scarves",
+    "price": 42,
+    "currency": "USD",
+    "color": "Pale blue",
+    "colors": [
+      "Pale blue"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/slim-fringe-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/slim-fringe-scarf-01-small.webp",
+    "description": "A long, fine silhouette with a light fringe finish. A restrained layer with an easy, unstudied feel.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Light layers",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "832978521322",
+      "url": "http://detail.1688.com/offer/832978521322.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Pale blue",
+        "hex": "#adccdc",
+        "image": "assets/products/slim-fringe-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "细长的流苏围巾，让外套领口和针织衫之间多一层轻松的细节。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "midnight-argyle-scarf",
+    "name": "The Midnight Argyle Scarf",
+    "nameZh": "午夜菱格围巾",
+    "category": "Scarves",
+    "price": 52,
+    "currency": "USD",
+    "color": "Ink blue",
+    "colors": [
+      "Ink blue"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/midnight-argyle-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/midnight-argyle-scarf-01-small.webp",
+    "description": "Dark tonal diamonds make a subtle pattern statement. Shown over simple layers to let the long proportions stand out.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Archive shapes",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "975865656988",
+      "url": "http://detail.1688.com/offer/975865656988.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Ink blue",
+        "hex": "#454f5d",
+        "image": "assets/products/midnight-argyle-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "沉静的深色菱格图案，搭配学院风外套，留下一点不刻意的趣味。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "powder-long-scarf",
+    "name": "The Powder Long Scarf",
+    "nameZh": "粉蓝长围巾",
+    "category": "Scarves",
+    "price": 46,
+    "currency": "USD",
+    "color": "Powder",
+    "colors": [
+      "Powder"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/powder-long-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/powder-long-scarf-01-small.webp",
+    "description": "A pale blue accent with long, straight ends. A quiet way to add colour to an otherwise neutral outfit.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Quiet essentials",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "833226373866",
+      "url": "http://detail.1688.com/offer/833226373866.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Powder",
+        "hex": "#a3baca",
+        "image": "assets/products/powder-long-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "淡蓝色长围巾，以舒展的线条为叠搭增添轻盈的层次。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "fine-stripe-beanie",
+    "name": "The Fine Stripe Beanie",
+    "nameZh": "细条纹针织帽",
+    "category": "Hats",
+    "price": 32,
+    "currency": "USD",
+    "color": "Navy stripe",
+    "colors": [
+      "Navy stripe"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/fine-stripe-beanie-01.webp"
+    ],
+    "thumbnail": "assets/products/fine-stripe-beanie-01-small.webp",
+    "description": "Fine horizontal stripes and a simple turned-up brim. A familiar shape with a little graphic detail.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Stripe study",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "981055044261",
+      "url": "http://detail.1688.com/offer/981055044261.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Navy stripe",
+        "hex": "#536270",
+        "image": "assets/products/fine-stripe-beanie-01.webp"
+      }
+    ],
+    "descriptionZh": "细条纹针织帽，经典与轻松之间，保留一点自己的穿搭节奏。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "sunflower-beanie",
+    "name": "The Sunflower Beanie",
+    "nameZh": "小太阳花针织帽",
+    "category": "Hats",
+    "price": 34,
+    "currency": "USD",
+    "color": "Cornflower",
+    "colors": [
+      "Cornflower"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/sunflower-beanie-01.webp"
+    ],
+    "thumbnail": "assets/products/sunflower-beanie-01-small.webp",
+    "description": "A small embroidered flower gives this blue beanie a playful focal point. A simple shape with a personal touch.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Small joys",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "981332652131",
+      "url": "http://detail.1688.com/offer/981332652131.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cornflower",
+        "hex": "#879dcc",
+        "image": "assets/products/sunflower-beanie-01.webp"
+      }
+    ],
+    "descriptionZh": "小小花朵图案点亮帽身，给凉凉的日子一个轻快的表情。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "classic-rib-beanie",
+    "name": "The Classic Rib Beanie",
+    "nameZh": "经典罗纹帽",
+    "category": "Hats",
+    "price": 34,
+    "currency": "USD",
+    "color": "Ink",
+    "colors": [
+      "Ink"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/classic-rib-beanie-01.webp"
+    ],
+    "thumbnail": "assets/products/classic-rib-beanie-01-small.webp",
+    "description": "A deep-toned ribbed beanie with a broad folded brim. A grounded finishing layer for lighter knits.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Quiet essentials",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "824480600778",
+      "url": "http://detail.1688.com/offer/824480600778.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Ink",
+        "hex": "#294456",
+        "image": "assets/products/classic-rib-beanie-01.webp"
+      }
+    ],
+    "descriptionZh": "经典罗纹帽型，线条清楚，与各种日常外套都容易搭配。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "hooded-knit-bonnet",
+    "name": "The Hooded Knit Bonnet",
+    "nameZh": "连颈针织帽",
+    "category": "Hats",
+    "price": 42,
+    "currency": "USD",
+    "color": "Dusty rose",
+    "colors": [
+      "Dusty rose"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/hooded-knit-bonnet-01.webp"
+    ],
+    "thumbnail": "assets/products/hooded-knit-bonnet-01-small.webp",
+    "description": "A hood-like shape frames the face and extends around the neck. The sculptural profile makes a simple outfit feel considered.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "New proportions",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "827878456974",
+      "url": "http://detail.1688.com/offer/827878456974.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Dusty rose",
+        "hex": "#b48780",
+        "image": "assets/products/hooded-knit-bonnet-01.webp"
+      }
+    ],
+    "descriptionZh": "兜帽式针织配饰，包裹头颈轮廓，打造不同于普通帽子的层次。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "tie-knit-bonnet",
+    "name": "The Tie Knit Bonnet",
+    "nameZh": "系带针织帽",
+    "category": "Hats",
+    "price": 36,
+    "currency": "USD",
+    "color": "Teal",
+    "colors": [
+      "Teal"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/tie-knit-bonnet-01.webp"
+    ],
+    "thumbnail": "assets/products/tie-knit-bonnet-01-small.webp",
+    "description": "A head-hugging shape with ties at the chin. The bright blue-green tone adds a playful note to winter dressing.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "A little rebellion",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "822664482196",
+      "url": "http://detail.1688.com/offer/822664482196.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Teal",
+        "hex": "#098aab",
+        "image": "assets/products/tie-knit-bonnet-01.webp"
+      }
+    ],
+    "descriptionZh": "可以系结的针织帽，把实用的穿戴细节变成一点小小装饰。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "border-triangle-scarf",
+    "name": "The Border Triangle Scarf",
+    "nameZh": "锁边三角围巾",
+    "category": "Scarves",
+    "price": 38,
+    "currency": "USD",
+    "color": "Heather",
+    "colors": [
+      "Heather"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/border-triangle-scarf-01.webp"
+    ],
+    "thumbnail": "assets/products/border-triangle-scarf-01-small.webp",
+    "description": "A small triangular layer with a contrasting edge. Knot it close to the neck as a compact finishing piece.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Small rituals",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "985979021495",
+      "url": "http://detail.1688.com/offer/985979021495.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Heather",
+        "hex": "#767977",
+        "image": "assets/products/border-triangle-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "对比色边缘勾勒三角领巾的轮廓，为简单衣着留出一个视觉落点。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "bird-jacquard-beanie",
+    "name": "The Bird Jacquard Beanie",
+    "nameZh": "小鸟提花针织帽",
+    "category": "Hats",
+    "price": 36,
+    "currency": "USD",
+    "color": "Grey",
+    "colors": [
+      "Grey"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/bird-jacquard-beanie-01.webp"
+    ],
+    "thumbnail": "assets/products/bird-jacquard-beanie-01-small.webp",
+    "description": "A pair of small bird motifs adds a storybook detail to a grey beanie. A playful contrast to simple winter layers.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Woodland notes",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "980366133756",
+      "url": "http://detail.1688.com/offer/980366133756.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Grey",
+        "hex": "#85878c",
+        "image": "assets/products/bird-jacquard-beanie-01.webp"
+      }
+    ],
+    "descriptionZh": "小鸟图案针织帽，把一点自然的趣味放进日常穿搭。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "cat-jacquard-beanie",
+    "name": "The Cat Jacquard Beanie",
+    "nameZh": "小猫提花针织帽",
+    "category": "Hats",
+    "price": 36,
+    "currency": "USD",
+    "color": "Slate",
+    "colors": [
+      "Slate"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/cat-jacquard-beanie-01.webp"
+    ],
+    "thumbnail": "assets/products/cat-jacquard-beanie-01-small.webp",
+    "description": "Small cat motifs and a softly shaped crown. A characterful finishing piece in a muted blue-grey palette.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Small joys",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "973290143899",
+      "url": "http://detail.1688.com/offer/973290143899.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Slate",
+        "hex": "#6b7787",
+        "image": "assets/products/cat-jacquard-beanie-01.webp"
+      }
+    ],
+    "descriptionZh": "猫咪图案与针织肌理结合，适合偏爱有趣细节的日子。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "oat-rib-beanie",
+    "name": "The Oat Rib Beanie",
+    "nameZh": "燕麦罗纹针织帽",
+    "category": "Hats",
+    "price": 34,
+    "currency": "USD",
+    "color": "Oat",
+    "colors": [
+      "Oat"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/oat-rib-beanie-01.webp"
+    ],
+    "thumbnail": "assets/products/oat-rib-beanie-01-small.webp",
+    "description": "An understated ribbed beanie with a generous fold. The pale tone sits quietly beside stripes, checks and colour.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Easy layers",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "827747441338",
+      "url": "http://detail.1688.com/offer/827747441338.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Oat",
+        "hex": "#e5dfcd",
+        "image": "assets/products/oat-rib-beanie-01.webp"
+      }
+    ],
+    "descriptionZh": "柔和燕麦色针织帽，作为浅色搭配的一部分，呈现轻松而简洁的感觉。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "open-finger-gloves",
+    "name": "The Open-Finger Gloves",
+    "nameZh": "露指针织手套",
+    "category": "Gloves",
+    "price": 26,
+    "currency": "USD",
+    "color": "Butter",
+    "colors": [
+      "Butter"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/open-finger-gloves-01.webp"
+    ],
+    "thumbnail": "assets/products/open-finger-gloves-01-small.webp",
+    "description": "An open-finger shape and long ribbed cuffs. A light-looking layer for hands, shown in a soft yellow tone.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Finishing touches",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "977878357555",
+      "url": "http://detail.1688.com/offer/977878357555.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Butter",
+        "hex": "#e2d489",
+        "image": "assets/products/open-finger-gloves-01.webp"
+      }
+    ],
+    "descriptionZh": "露指设计保留手指活动空间，和长袖针织衫搭配，多一点日常层次。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "rib-cuff-gloves",
+    "name": "The Rib-Cuff Gloves",
+    "nameZh": "长罗纹袖口手套",
+    "category": "Gloves",
+    "price": 29,
+    "currency": "USD",
+    "color": "Dusty pink",
+    "colors": [
+      "Dusty pink"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/rib-cuff-gloves-01.webp"
+    ],
+    "thumbnail": "assets/products/rib-cuff-gloves-01-small.webp",
+    "description": "A classic five-finger outline with extra-long ribbed cuffs. A pale rose tone adds a gentle accent to neutral layers.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "The soft edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "976635959586",
+      "url": "http://detail.1688.com/offer/976635959586.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Dusty pink",
+        "hex": "#be9f9a",
+        "image": "assets/products/rib-cuff-gloves-01.webp"
+      }
+    ],
+    "descriptionZh": "罗纹袖口与浅粉色手套，细节克制，适合颜色柔和的搭配。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "cream-knit-gloves",
+    "name": "The Cream Knit Gloves",
+    "nameZh": "奶油针织手套",
+    "category": "Gloves",
+    "price": 28,
+    "currency": "USD",
+    "color": "Cream",
+    "colors": [
+      "Cream"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/cream-knit-gloves-01.webp"
+    ],
+    "thumbnail": "assets/products/cream-knit-gloves-01-small.webp",
+    "description": "A pared-back glove shape in a quiet cream shade. Pair with a dark coat or a patterned scarf.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Quiet essentials",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "821980725537",
+      "url": "http://detail.1688.com/offer/821980725537.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cream",
+        "hex": "#ddd5c3",
+        "image": "assets/products/cream-knit-gloves-01.webp"
+      }
+    ],
+    "descriptionZh": "奶油色针织手套，为灰色、藏青色和浅色外套添一层柔和对比。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "cherry-knit-gloves",
+    "name": "The Cherry Knit Gloves",
+    "nameZh": "樱桃色针织手套",
+    "category": "Gloves",
+    "price": 29,
+    "currency": "USD",
+    "color": "Cherry",
+    "colors": [
+      "Cherry"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/cherry-knit-gloves-01.webp"
+    ],
+    "thumbnail": "assets/products/cherry-knit-gloves-01-small.webp",
+    "description": "A rich red accent and a neat knitted outline. A small flash of colour at the cuff of a winter jacket.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "A little rebellion",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "970756715012",
+      "url": "http://detail.1688.com/offer/970756715012.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cherry",
+        "hex": "#982f3c",
+        "image": "assets/products/cherry-knit-gloves-01.webp"
+      }
+    ],
+    "descriptionZh": "樱桃色手套，让色彩集中在小面积配饰上，轻松点亮整体穿搭。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "cable-knit-gloves",
+    "name": "The Cable Knit Gloves",
+    "nameZh": "麻花针织手套",
+    "category": "Gloves",
+    "price": 32,
+    "currency": "USD",
+    "color": "Oat",
+    "colors": [
+      "Oat"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/cable-knit-gloves-01.webp"
+    ],
+    "thumbnail": "assets/products/cable-knit-gloves-01-small.webp",
+    "description": "A traditional cable pattern gives these gloves visible texture. A compact finishing layer in a quiet oat tone.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Texture notes",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "980450868396",
+      "url": "http://detail.1688.com/offer/980450868396.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Oat",
+        "hex": "#c9b39c",
+        "image": "assets/products/cable-knit-gloves-01.webp"
+      }
+    ],
+    "descriptionZh": "绞花针织纹理清楚可见，与基础款外套一起搭配很自然。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "brushed-knit-gloves",
+    "name": "The Brushed Knit Gloves",
+    "nameZh": "绒感针织手套",
+    "category": "Gloves",
+    "price": 32,
+    "currency": "USD",
+    "color": "Cherry",
+    "colors": [
+      "Cherry"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/brushed-knit-gloves-01.webp"
+    ],
+    "thumbnail": "assets/products/brushed-knit-gloves-01-small.webp",
+    "description": "A brushed-looking surface and simple glove shape. A bright red accent for a winter palette.",
+    "material": "Knit construction. Fibre composition is not verified for this preview.",
+    "care": "Care instructions will follow the final product label. Preview information only.",
+    "tag": "Texture notes",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": "979362737649",
+      "url": "http://detail.1688.com/offer/979362737649.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "priceNote": "Illustrative retail price for the demo; not an offer for sale.",
+    "variantNote": "Colour names are based on photography. Final availability and sizing are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Cherry",
+        "hex": "#b33d46",
+        "image": "assets/products/brushed-knit-gloves-01.webp"
+      }
+    ],
+    "descriptionZh": "蓬松的针织质感与鲜明色彩组合，是日常里的小小重点。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "blue-hour-set",
+    "name": "The Blue Hour Pair",
+    "nameZh": "蓝调时刻搭配",
+    "category": "Sets",
+    "price": 78,
+    "currency": "USD",
+    "color": "Blue hour",
+    "colors": [
+      "Blue hour"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/cloud-fringe-scarf-01.webp",
+      "assets/products/foldover-beanie-01.webp",
+      "assets/products/cloud-fringe-scarf-02.webp",
+      "assets/products/cloud-fringe-scarf-03.webp",
+      "assets/products/foldover-beanie-02.webp",
+      "assets/products/foldover-beanie-03.webp"
+    ],
+    "thumbnail": "assets/products/cloud-fringe-scarf-01-small.webp",
+    "description": "A soft blue scarf and a folded beanie, styled as a two-piece preview pairing. The photographs show the individual pieces; this is a simulated bundle, not a verified supplier set.",
+    "material": "Composition of each piece is to be confirmed.",
+    "care": "Follow the final care label of each piece. Preview information only.",
+    "tag": "The pairing edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": [
+        "758587460197",
+        "979430423093"
+      ],
+      "url": "http://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "components": [
+      "cloud-fringe-scarf",
+      "foldover-beanie"
+    ],
+    "priceNote": "Illustrative bundle price for the demo; not an offer for sale.",
+    "variantNote": "A simulated pairing for website testing. Final colours and set contents are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Blue hour",
+        "hex": "#95b3c5",
+        "image": "assets/products/cloud-fringe-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "以蓝色围巾和帽子为灵感的演示搭配组合。图片展示组成单品，不代表真实在售套装。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "library-day-set",
+    "name": "The Library Day Pair",
+    "nameZh": "图书馆日搭配",
+    "category": "Sets",
+    "price": 72,
+    "currency": "USD",
+    "color": "Ink & check",
+    "colors": [
+      "Ink & check"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/library-check-scarf-01.webp",
+      "assets/products/roll-edge-beanie-01.webp",
+      "assets/products/library-check-scarf-02.webp",
+      "assets/products/library-check-scarf-03.webp",
+      "assets/products/roll-edge-beanie-02.webp",
+      "assets/products/roll-edge-beanie-03.webp"
+    ],
+    "thumbnail": "assets/products/library-check-scarf-01-small.webp",
+    "description": "A dark check scarf and a simple beanie, brought together as an understated two-piece preview pairing. The photographs show the individual pieces; this is a simulated bundle, not a verified supplier set.",
+    "material": "Composition of each piece is to be confirmed.",
+    "care": "Follow the final care label of each piece. Preview information only.",
+    "tag": "The pairing edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": [
+        "979622650557",
+        "985455179031"
+      ],
+      "url": "http://detail.1688.com/offer/979622650557.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "components": [
+      "library-check-scarf",
+      "roll-edge-beanie"
+    ],
+    "priceNote": "Illustrative bundle price for the demo; not an offer for sale.",
+    "variantNote": "A simulated pairing for website testing. Final colours and set contents are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Ink & check",
+        "hex": "#4c4d4f",
+        "image": "assets/products/library-check-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "以格纹围巾和针织帽组合的学院感搭配。仅用于体验套装购物流程，不代表真实在售套装。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  },
+  {
+    "id": "weekend-colour-set",
+    "name": "The Weekend Colour Pair",
+    "nameZh": "周末撞色搭配",
+    "category": "Sets",
+    "price": 68,
+    "currency": "USD",
+    "color": "Colour mix",
+    "colors": [
+      "Colour mix"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "images": [
+      "assets/products/color-study-scarf-01.webp",
+      "assets/products/everyday-knit-gloves-01.webp",
+      "assets/products/color-study-scarf-02.webp",
+      "assets/products/color-study-scarf-03.webp",
+      "assets/products/everyday-knit-gloves-02.webp",
+      "assets/products/everyday-knit-gloves-03.webp"
+    ],
+    "thumbnail": "assets/products/color-study-scarf-01-small.webp",
+    "description": "A striped scarf and knitted gloves, brought together as a playful two-piece preview pairing. The photographs show the individual pieces; this is a simulated bundle, not a verified supplier set.",
+    "material": "Composition of each piece is to be confirmed.",
+    "care": "Follow the final care label of each piece. Preview information only.",
+    "tag": "The pairing edit",
+    "source": {
+      "supplier": "桐庐愿望针织有限公司",
+      "productId": [
+        "970422787632",
+        "827746529066"
+      ],
+      "url": "http://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "user-confirmed permission for public demo on 2026-10-02"
+    },
+    "demo": true,
+    "components": [
+      "color-study-scarf",
+      "everyday-knit-gloves"
+    ],
+    "priceNote": "Illustrative bundle price for the demo; not an offer for sale.",
+    "variantNote": "A simulated pairing for website testing. Final colours and set contents are not confirmed.",
+    "colorVariants": [
+      {
+        "name": "Colour mix",
+        "hex": "#939fb0",
+        "image": "assets/products/color-study-scarf-01.webp"
+      }
+    ],
+    "descriptionZh": "以彩色围巾和配饰组成的周末穿搭灵感。仅为演示组合，具体组成以上线后的商品为准。",
+    "materialZh": "针织结构。此预览尚未核实纤维成分，具体材质以上线后的商品标注为准。",
+    "careZh": "护理方式请以最终商品洗标为准。此预览不提供经过核实的洗护参数。"
+  }
+]
