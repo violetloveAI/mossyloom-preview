@@ -1,42 +1,26 @@
-# Mossyloom · Four ways to feel at home
+# Mossyloom · The Little Stroll
 
-A knitwear concept store with four distinct designs and a complete simulated shopping journey.
+A knitwear collection preview in sky blue, cream and plum. The fourth design is now the only storefront, with six scarves, two beanies and 51 real supplier photographs.
 
-**[Open the live preview](https://violetloveAI.github.io/mossyloom-preview/)** · **[中文测试指南 PDF](docs/Mossyloom-Test-Guide.pdf)**
+**[Open the collection preview](https://violetloveai.github.io/mossyloom-preview/)**
 
-![Mossyloom storefront](assets/preview.png)
+![Mossyloom collection preview](assets/preview.png)
 
-## Try the store
+## What works
 
-Choose **01–04** in the top bar. The layout, typography, colors and logo change while the shopping bag, favorites and account state remain available. The site opens in English; use **中文 / EN** to switch language.
+- Browse eight product styles, search by name, pattern or visual color, filter by category, and sort by name.
+- View each product’s photo gallery and enlarge individual images.
+- Save up to eight styles in your browser. Copy or download the list, or return to it later in the same browser.
+- Explore outfit ideas and switch between English and Chinese.
+- Read the current launch status, delivery information and privacy notice.
 
-| Design | Visual direction |
-| --- | --- |
-| 01 · The Quiet Edit | Ivory, oatmeal and burgundy; serif typography and a large editorial photograph |
-| 02 · Dopamine Club | Klein blue, candy pink and neon green; bold poster type and photo collage |
-| 03 · The After Class | Navy and cream with cherry red; a collegiate journal and asymmetric photo columns |
-| 04 · The Little Stroll | Sky blue, cream and plum; photo postcards and a small boutique layout |
+Saved pieces are not orders, stock reservations or messages to the shop. The preview has no customer accounts, checkout, payment processing, email subscriptions or customer database. It does not collect passwords, delivery addresses or card information. Earlier demo prices, reviews, stock, coupons and payment simulations have been removed.
 
-The first three palettes follow the user's original color specifications. The fourth follows the user's chosen Moody Mumu reference and the previously developed sky-blue palette. The original reference site's photographs and branding are not used.
-
-## Demo account and checkout
-
-- Email: `demo@mossyloom.test`
-- Password: `Mossy2026!`
-- A one-click demo login is also available.
-- Coupon: `MOSSY10` gives 10% off the item subtotal.
-- Standard delivery: $6, free when the discounted subtotal reaches $75.
-- Express delivery: $12.
-
-These credentials are a public test identity. There is no authentication server. Checkout shows a fixed demonstration card and supports simulated card or PayPal outcomes. It never sends card data, charges money, emails a receipt or triggers fulfillment. Use the fictional address provided in the form.
-
-Browse 36 catalog entries, search and filter, choose a photographed color, save favorites, change bag quantities, apply a coupon, and place a demo order. The payment screen can simulate a decline so you can test retrying. Orders support cancellation before dispatch, simulated dispatch and delivery, and return requests after delivery. Login adds one clearly marked sample order for testing.
-
-The catalog includes 33 individual products and three demonstration pairings, with 87 distinct supplier photographs. Names, USD retail prices, stock, ratings, sizing information and service policies are illustrative. See [image sources and permission](ASSET-SOURCES.md).
+The first collection is still being prepared. Material composition, measurements, final color options, retail prices, stock and commercial image rights need confirmation before sales can start. Photo colors are visual references, not selectable inventory. See the [image record](ASSET-SOURCES.md).
 
 ## Run locally
 
-Python 3 is sufficient. There is no install or build step.
+With Python 3 installed, no additional dependencies or build step are needed.
 
 ```sh
 git clone https://github.com/violetloveAI/mossyloom-preview.git
@@ -44,27 +28,32 @@ cd mossyloom-preview
 python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
-Open `http://127.0.0.1:4173/`. Serve the files over HTTP; opening `index.html` directly does not support the catalog fetch and JavaScript modules reliably.
+Open `http://127.0.0.1:4173/`. Use an HTTP server rather than opening `index.html` as a local file, because the app loads its catalog and JavaScript modules over HTTP.
 
-## Structure
+## Files
 
-```text
-index.html                 App entry point
-styles.css                 Four layouts, shared navigation and responsive styling
-commerce.css               Product, account, cart, checkout and order styling
-js/app.js                  Hash routes, design switch, language and catalog browsing
-js/commerce.js             Local demo shopping state and order workflows
-data/catalog.json          Bilingual product descriptions and photo variants
-assets/                    Local photographs, logos and preview screenshot
-docs/Mossyloom-Test-Guide.pdf  Illustrated Chinese test guide
-```
+| Path | Purpose |
+| --- | --- |
+| `index.html` | App entry, metadata and local stylesheets |
+| `js/app.js` | Navigation, language, collection filters and editorial pages |
+| `js/collection.js` | Product galleries and saved style lists in browser storage |
+| `styles.css`, `collection.css` | Responsive storefront and product layouts |
+| `data/catalog.json` | Eight product styles and bilingual descriptions |
+| `assets/products/` | Local product photographs and thumbnails |
+| `data/image-provenance.json` | Photo sources and hashes |
 
-The site uses browser JavaScript modules, CSS and local files. No external runtime scripts, fonts, analytics, API keys or payment libraries are required. Relative asset paths and hash routes support deployment below a GitHub Pages repository path. The `.nojekyll` file enables direct static-file hosting.
+Relative asset paths and hash routes work below a repository path. Old `?style=1` through `?style=4` links open the chosen design. Removed product and shopping routes explain the change and link back to the collection.
 
-Demo state stays in `localStorage` on the current browser. It is not shared between devices. The **Privacy & reset** page can clear this store's demo data. Form values are not sent to a customer backend; GitHub Pages may retain its normal hosting logs. Browser storage is a convenience for this demonstration and is not a secure customer system.
+The site uses no external runtime scripts, web fonts, analytics or advertising pixels. Language and saved product IDs use local storage when available. The privacy page can clear Mossyloom data, including data left by the previous demo. GitHub may retain its normal hosting logs.
+
+## Hosting and launch boundary
+
+GitHub Pages hosts this design preview. [GitHub’s Pages limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits) prohibit using the service as free hosting for an online business or e-commerce site. A commercial launch needs suitable hosting, a real commerce backend, a supported merchant/payment account, approved product information, prices, stock and service policies. Merely hiding checkout is not a substitute for meeting a host’s terms.
+
+Search indexing remains disabled for this review version. The private owner questionnaire, procurement costs and shipping calculations are kept outside this public repository. The previous four-design demo remains recoverable in Git history.
 
 ## Verification
 
-The preview was checked in Chrome at desktop and 390px mobile widths, across all four designs. Checks cover real photo loading, theme and language changes, search and filtering, variant selection, demo login, coupons, delivery totals, declined and successful payments, order persistence, cancellation and return requests. The Chinese guide documents the paths intended for reviewers.
+Browser checks cover desktop and mobile navigation, English/Chinese switching, search and category filtering, all eight product galleries, saved-list persistence and exports, missing pages, and retired shopping routes. The collection stores only product identifiers; it never turns a saved list into a paid order.
 
-This repository is a public preview for viewing and testing. It does not grant an open-source or asset reuse license. Supplier-photo permission was confirmed by the user for this public demonstration; it does not establish unrestricted commercial reuse rights.
+This repository does not grant an open-source or asset reuse license. Supplier-photo permission has been recorded for the public demonstration; commercial reuse is a separate launch requirement.

@@ -1,11 +1,11 @@
-# Image sources for the Mossyloom preview
+# Mossyloom image record
 
-The site contains 87 distinct real product photographs sourced from the previously collected listings of [桐庐愿望针织有限公司 on 1688](https://tlywfz.1688.com/). The catalog contains 33 individual supplier products and three simulated pairings. Photographs were resized and compressed to WebP for this preview; product appearances were not generated or redesigned.
+The first collection preview contains 8 product styles and 51 distinct supplier photographs: six scarves and two beanies. The photographs come from previously collected listings of [桐庐愿望针织有限公司 on 1688](https://tlywfz.1688.com/). They were resized and compressed to WebP for loading performance. Product appearances and models have not been changed with AI.
 
-On **2026-10-02**, the user explicitly confirmed **“已获得允许，使用供应商实拍图”** in response to the proposed public demonstration. The project records this as **user-confirmed permission for public demo on 2026-10-02**. This statement covers the current public preview; it does not assert that Mossyloom owns the photographs or has unrestricted, permanent commercial rights.
+On October 2, 2026, the user confirmed “已获得允许，使用供应商实拍图” for the public demonstration. This is recorded as user-confirmed permission for the current public preview. It is not a claim that Mossyloom owns the photography or holds an unrestricted commercial license. Rights for sales pages, overseas advertising, editing and model likenesses must be confirmed before commercial launch.
 
-Each individual supplier listing is linked in [the product photo index](data/product-photo-index.csv) and in each catalog entry's `source` object. [The image provenance file](data/image-provenance.json) records every full photograph's supplier listing and original collected file. Neither document includes procurement prices, account credentials, private customer information or supplier contact details.
+[Image provenance](data/image-provenance.json) maps the photographs to their source listings and preserves file hashes. [The photo index](data/product-photo-index.csv) lists the eight current styles. No asset reuse license is granted by this repository.
 
-All USD retail prices are illustrative values for testing. Product names and color labels are presentation descriptions. Material composition, certifications, live inventory, verified sizing, delivery estimates and order fulfillment are not established by this preview. The three Sets are simulated pairings with photographs of the component products.
+The photo gallery is a visual reference, including some colors that may not be sold in the final collection. Product composition, measurements, final color options and inventory are awaiting confirmation. Supplier descriptions of wool percentages, designer associations and performance are not used as established product claims.
 
-Unrelated Chinti & Parker and GOBI brand photography found elsewhere in the workspace is excluded from this site.
+The boutique logo is the existing Mossyloom wordmark selected for the fourth design. Unrelated brands’ photographs and logos are excluded.
