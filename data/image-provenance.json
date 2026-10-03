@@ -1,522 +1,2088 @@
 {
   "generatedAt": "2026-10-03",
-  "purpose": "Mossyloom first collection design preview",
+  "purpose": "Mossyloom 30-link collection preview",
   "sourceStore": "https://tlywfz.1688.com/",
-  "licenseNote": "The user confirmed on 2026-10-02 that supplier permission has been obtained for public demo use. Images remain supplier-sourced photography; no permanent commercial license or ownership by Mossyloom is asserted.",
-  "excludedSources": [
-    "Chinti & Parker photography in tmp/pdfs/assets",
-    "GOBI photography in tmp/pdfs/assets"
-  ],
+  "licenseNote": "User confirmed supplier real-photograph permission for public demo on 2026-10-02. Commercial overseas, advertising, editing and model likeness scope must be confirmed separately.",
   "images": [
     {
-      "path": "assets/products/everyday-rib-scarf-01.webp",
-      "thumbnail": "assets/products/everyday-rib-scarf-01-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-01.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-01-small.webp",
       "productId": "everyday-rib-scarf",
       "supplierProductId": "840033424253",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/840033424253.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "0dfe71f303dda6b71d8f0818deb7d8f2a494686ac6206502f13872834d045b2a"
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "426a0889b9be0dd87ce1a06a77b2183589d7143f28172b59d495b93890583dcf",
+      "sha256": "0dfe71f303dda6b71d8f0818deb7d8f2a494686ac6206502f13872834d045b2a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        900,
+        900
+      ]
     },
     {
-      "path": "assets/products/everyday-rib-scarf-02.webp",
-      "thumbnail": "assets/products/everyday-rib-scarf-02-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-02.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-02-small.webp",
       "productId": "everyday-rib-scarf",
       "supplierProductId": "840033424253",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/840033424253.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "159285bcaa6b661c1838032856ef2d20d7faf62a2e38103807360744d434af3a"
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "32e4589f03a1c32af680046d9c1581735e05f50f8a106a53c6279b49f1ed1f94",
+      "sha256": "159285bcaa6b661c1838032856ef2d20d7faf62a2e38103807360744d434af3a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/everyday-rib-scarf-03.webp",
-      "thumbnail": "assets/products/everyday-rib-scarf-03-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-03.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-03-small.webp",
       "productId": "everyday-rib-scarf",
       "supplierProductId": "840033424253",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/840033424253.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "b17a68204954022ab5acc4de00ef794eb8d867fe10802077713cb866d3b84781"
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "cbc3ea050beb4e852dadd8e481df94f5ac63241caab5c0d38445f77375bed0bb",
+      "sha256": "b17a68204954022ab5acc4de00ef794eb8d867fe10802077713cb866d3b84781",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        900,
+        900
+      ]
     },
     {
-      "path": "assets/products/everyday-rib-scarf-04.webp",
-      "thumbnail": "assets/products/everyday-rib-scarf-04-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-04.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-04-small.webp",
       "productId": "everyday-rib-scarf",
       "supplierProductId": "840033424253",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/840033424253.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "27bd1a6b488ea9695774134002b57b22924a9b67584570386b3462066ca29c57"
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6014c9bac4e7afc719f2245b9aba73cd8a3a319cc449fe9a967a1d9b35aea825",
+      "sha256": "27bd1a6b488ea9695774134002b57b22924a9b67584570386b3462066ca29c57",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/everyday-rib-scarf-05.webp",
-      "thumbnail": "assets/products/everyday-rib-scarf-05-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-06.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-06-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-06.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "25c34b5a85198617ce0b42404363b8a7dfd13e15e7dc23e7b0b2e630edacfebb",
+      "sha256": "13e6ef4ca81405d641e558f5b604558a12f10c9f5e952bf5cb04540c05efc637",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-07.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-07-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-07.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6506d1a3208a89a79dba6f3eadd6773c2d97a16dffc9e7860385eed2fcb5d8f5",
+      "sha256": "59ec797f7c25f5d86655576eb5f19be160661afd0788f01b07e0d6ec0c133b73",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-08.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-08-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-08.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "b9bc80398b28450b37de468a450f0c1064b50b31e594411ad9b7197c0c47d15f",
+      "sha256": "c0ef5374d34ec67b52ebee6b4f8db8dcb6a1b16c9ab357f1f419a561076302c5",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-09.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-09-small.webp",
       "productId": "everyday-rib-scarf",
       "supplierProductId": "840033424253",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-09.webp",
-      "sourceUrl": "http://detail.1688.com/offer/840033424253.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "75a2751df84aabef39d48dc75163e0a26d2e270c7715a6b290c7d9a9560ed1a3"
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "492a84bb33a7449de86c97a27215bef8e790af34002477905db375df33da5f82",
+      "sha256": "75a2751df84aabef39d48dc75163e0a26d2e270c7715a6b290c7d9a9560ed1a3",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/everyday-rib-scarf-06.webp",
-      "thumbnail": "assets/products/everyday-rib-scarf-06-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-10.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-10-small.webp",
       "productId": "everyday-rib-scarf",
       "supplierProductId": "840033424253",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-16.webp",
-      "sourceUrl": "http://detail.1688.com/offer/840033424253.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "0be06af98d5ad164dce4df2e0a627d1051fdeac7f4dde9edf0f15e074278640d"
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-10.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "49f4e12a29a877dbd4d3136aa2d56cd240275d7a3896a24de09229a8c5cd20e5",
+      "sha256": "d6766cadd947e02823170eab5b1b0a2590e8566d0a48d680413193b79b78ac31",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/everyday-rib-scarf-07.webp",
-      "thumbnail": "assets/products/everyday-rib-scarf-07-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-11.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-11-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-11.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "253ddf2a730a341331ca330053c09376c7b23a997afc9b3d1737ba1feb7a7515",
+      "sha256": "189b9830fe3128fee906f6ff8b1ec18a0464ae234852ad106d2284d8649bf29c",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-12.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-12-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-12.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "18fef2d8a99057efaf12c8681874beff1054befae0c9a51b1a337033d9b96efc",
+      "sha256": "da997b11d2e84770caa1d49b59e88434b3d22b872e9f528491616ede1b78c16f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-13.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-13-small.webp",
       "productId": "everyday-rib-scarf",
       "supplierProductId": "840033424253",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-13.webp",
-      "sourceUrl": "http://detail.1688.com/offer/840033424253.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "3379356bb7f244b59002ee0e40d51abac6a50336f677c4e0e5408a8c2e1571f4"
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "c7772303547848a9c5586e8b1c7b9d68076e8b80c805c442488e4e183d0ddb26",
+      "sha256": "3379356bb7f244b59002ee0e40d51abac6a50336f677c4e0e5408a8c2e1571f4",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-01.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-01-small.webp",
+      "path": "assets/products/everyday-rib-scarf-hd-14.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-14-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-14.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "8d6c257dbbd7f09e448ee5d7de64b5a83818ddadc99e002e221eddd64e6aef48",
+      "sha256": "46ea116abdb958cc137ee20383dfc2bfdb5a495e1c8401961ca980817e9b69d0",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-15.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-15-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-15.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "9bf1a848b205676402b858e2e92d10ebcc1fcb3845b90d3cecbef4e8dd035322",
+      "sha256": "333086bc6a990c88eb362ac6c14b7fba6ca9ddd1e07ec272f509999f6254d3ee",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-16.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-16-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-16.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "673cb5ce36f12d6d9e4cd1791db6829e06e584473abd13d5819b9e3d8d1c9f6c",
+      "sha256": "0be06af98d5ad164dce4df2e0a627d1051fdeac7f4dde9edf0f15e074278640d",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-17.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-17-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-17.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "4dff48d0b2ce219b694350406379338335e0b7b6bf91f34360ef11bf32af9a05",
+      "sha256": "7c44f6fdd98a91f82b1c5bfe81947732cacfb0bf32288558299e97428bfd482c",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-18.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-18-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-18.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f798bb80d87758086995bcc2c85e487c4109d039f7b8ac4ff4092e0fcf855c65",
+      "sha256": "ed01cb2680cbe3af8c0cedd20a0b5d14857030ccea43fba6e3b282353236eb1f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-19.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-19-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-19.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a5b0ce40b6cbfb79d9304f5ddc45b03e058697f03d2f9f4a4f8b5ef5b4500219",
+      "sha256": "ac271bd923cdf91e27ab08cd293a980c93c9892bb425d86d9a5d06a5ad0f0245",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-rib-scarf-hd-20.webp",
+      "thumbnail": "assets/products/everyday-rib-scarf-hd-20-small.webp",
+      "productId": "everyday-rib-scarf",
+      "supplierProductId": "840033424253",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/840033424253/HD-20.webp",
+      "sourceUrl": "https://detail.1688.com/offer/840033424253.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "3a0c943be3b54a638054c0a6103a7c05492a1efe30765959a4b0e632c8ba68c7",
+      "sha256": "28a4f6047502dc57411c29bc56d2566c990279679a2b7d8042da3d3722cf8eec",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-01.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-01-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "ed1ae610fffc948e91fc9fb99496cdfcfcf7c9f69c18cc67a3497ccda44a4f29"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a702b851ddb58b275d67983eb1409ee92990d09951ce4c022f299d545a24a935",
+      "sha256": "ed1ae610fffc948e91fc9fb99496cdfcfcf7c9f69c18cc67a3497ccda44a4f29",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-02.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-02-small.webp",
+      "path": "assets/products/cloud-fringe-scarf-hd-02.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-02-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "99be39499cffdf4591a29d6b35acd86cd6e7990f8829f210e8045ef436f86f02"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "ba1cdd79dbd1cd55bb3e99b41903b2734c4ce63bb41e5ea7226ff7f086fff9a1",
+      "sha256": "99be39499cffdf4591a29d6b35acd86cd6e7990f8829f210e8045ef436f86f02",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-03.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-03-small.webp",
+      "path": "assets/products/cloud-fringe-scarf-hd-03.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-03-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "23dde596929909b3bc9cc481b35b5bd8848afe17a4c5546887559d917c55b90b"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "ae5634ed5314e26cf10a958ea34e3151450ab73bca05cd91d2d97dbab9315a57",
+      "sha256": "23dde596929909b3bc9cc481b35b5bd8848afe17a4c5546887559d917c55b90b",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-04.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-04-small.webp",
+      "path": "assets/products/cloud-fringe-scarf-hd-04.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-04-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "277abd80bf10bcd8cd6c450c80d0e3234d28da895cf126f343f18f73650567fb"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "b0409ac6c460340e4a59e64fb9d24129b9345a38ad583efea8d382a96a93f00a",
+      "sha256": "277abd80bf10bcd8cd6c450c80d0e3234d28da895cf126f343f18f73650567fb",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-05.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-05-small.webp",
+      "path": "assets/products/cloud-fringe-scarf-hd-06.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-06-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-06.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "dc6a627bfd7742ea98b2c19d5060ed36738621a6d22ac4b778a0862c7ec752da"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "ca022d8976d5e26e11731f46dd71780e30910a6a35b2e108cd27ac7e2c029170",
+      "sha256": "dc6a627bfd7742ea98b2c19d5060ed36738621a6d22ac4b778a0862c7ec752da",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-06.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-06-small.webp",
+      "path": "assets/products/cloud-fringe-scarf-hd-07.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-07-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-07.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "c3d061eadeace13263ce85f4f9b7d9c718e8dfd1fe08ab7e566d6b3f9d8cf1d3"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "67aa106538b57e9ef41c145f1591b40fc38435e0e58dc6d57a67117bd52c6bf3",
+      "sha256": "c3d061eadeace13263ce85f4f9b7d9c718e8dfd1fe08ab7e566d6b3f9d8cf1d3",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-07.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-07-small.webp",
+      "path": "assets/products/cloud-fringe-scarf-hd-08.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-08-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-08.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "84508ad44406ab47d4876b7f804d75faae035b73b14ba5a72bb7f1804319dadc"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "96a8c1d818825b422acb5c68d877fe25c3ace7fa97c99c5f3b1d7e9bb2bc2d86",
+      "sha256": "84508ad44406ab47d4876b7f804d75faae035b73b14ba5a72bb7f1804319dadc",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/cloud-fringe-scarf-08.webp",
-      "thumbnail": "assets/products/cloud-fringe-scarf-08-small.webp",
+      "path": "assets/products/cloud-fringe-scarf-hd-09.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-09-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-09.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "ea1dcc453a3fe093592b33e1459ea210df40bb82722fc3314213de046aa7cb38",
+      "sha256": "2843c6caf2bd4096802c1dc6eb5cb660c107f3b51725f650a757975f89bbc114",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-10.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-10-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-10.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "cdd343e17f1f21f83c4a9e2b9ba3616b81cb14a14a7fa9612007bc09386eeb2d",
+      "sha256": "6daa4da655be958da4484b8422086920f540b275031fbc9bb42248faad687d0a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-11.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-11-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-11.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "bdb14e82028b4b92ff200dacfb496f8975627dc173519a74efd12c3d615b03ff",
+      "sha256": "ffd64b21c9d827cff13d82ec545a0f42a66501b4c0db57559d5ffd037c443fad",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-12.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-12-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-12.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "dec83ccc63df8cc33a668f00ef77d816f2e7d623a9a082670c70fdf46a4592ff",
+      "sha256": "bbf0abf39966ce5fa30a49dd103afcc1008ecf961c0f43119f0effd2547dc85c",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-13.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-13-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-13.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "b45f7303ca59fc6452354b7fbf9afd7406ce9a1cca76ea76f35e8bf8fd93b61c",
+      "sha256": "b22624b7720242c16f25a510b585f3a695cc80941b75b705c46b607fc8ee5c3c",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-14.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-14-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-14.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "9abd3b27bda644373e2357ee1a59ff5198063e5ab26f0f182f08e8c8837de033",
+      "sha256": "7f68939ec3e8d4e6445ad935d1f9ff136fa842228337dd67ae1233b069a21ee6",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-15.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-15-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-15.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "2b8032cf73b3348937af4ebf349d15fc105eec0ad75b70e4ad9a8021df58a606",
+      "sha256": "ba76a0c85845b4a05f4f65b9b0eb92147e9846a8672d070f8d8b70b0c5385000",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-16.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-16-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-16.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "926b2a5788b795d2f3ac99896bb9daa2488c9957aa901b30d0107194d69868d7",
+      "sha256": "9ed9c866c4db146c298aac0ee4bb1b683d6aa5d0f4e00f9f1679ce1f05e7fa15",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-17.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-17-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-17.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "53d1caa6a996622dc5445f4f45a3dc13275973ba8f4525920a9a602da817caba",
+      "sha256": "de7902a1306da06366a15bf1334c728146a4b3d34f76045e8265130de7d4a5e4",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cloud-fringe-scarf-hd-18.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-18-small.webp",
       "productId": "cloud-fringe-scarf",
       "supplierProductId": "758587460197",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-18.webp",
-      "sourceUrl": "http://detail.1688.com/offer/758587460197.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "bf9bd465e2d72585eb95e004fae1a62199059751e1b503cefd0c97ae6d202c1d"
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "c4f21288be2add71a632550226fc03b650f70aa8f0e2d40663e42be2bf9c4e19",
+      "sha256": "bf9bd465e2d72585eb95e004fae1a62199059751e1b503cefd0c97ae6d202c1d",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/foldover-beanie-01.webp",
-      "thumbnail": "assets/products/foldover-beanie-01-small.webp",
-      "productId": "foldover-beanie",
-      "supplierProductId": "979430423093",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979430423093.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "f95ae481df09830171156bd6f59a14f60f9639a6bf8747af34065b759870cb16"
+      "path": "assets/products/cloud-fringe-scarf-hd-19.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-19-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-19.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "20d6852f3cf155fd91311b1bdaf8f5d65b0fb397caa28254daea01e9297e2419",
+      "sha256": "d8611f67bc82a46ca0c1de346249092922bf55c1df5af486b65e2748e4bf175c",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/foldover-beanie-02.webp",
-      "thumbnail": "assets/products/foldover-beanie-02-small.webp",
-      "productId": "foldover-beanie",
-      "supplierProductId": "979430423093",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979430423093.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "ca74a3090d91438c4c96cc026672078316a89beb8d8495b8e9f675fc7a34b699"
+      "path": "assets/products/cloud-fringe-scarf-hd-20.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-20-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-20.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "aff36e70e249df4f20d297ef385755b8b50a2f2d11307d8aea0fac891aead041",
+      "sha256": "5e2946a7503d04b09896c41048b9fffc61a44433df525bc09923157955e185a3",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/foldover-beanie-03.webp",
-      "thumbnail": "assets/products/foldover-beanie-03-small.webp",
-      "productId": "foldover-beanie",
-      "supplierProductId": "979430423093",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979430423093.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "06bc2efd6cced5e65d8ad6b80e18fcba71443f30e464df85940444f73e8968e1"
+      "path": "assets/products/cloud-fringe-scarf-hd-21.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-21-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-21.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a178ad55ba2d620740d3ccbd40055aed4442486c2cb83f396a01685d5b3204c7",
+      "sha256": "68581b37b8914db389f659c8e3c9d8be246f84c133c228844fa0392bb3edbb37",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/foldover-beanie-04.webp",
-      "thumbnail": "assets/products/foldover-beanie-04-small.webp",
-      "productId": "foldover-beanie",
-      "supplierProductId": "979430423093",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979430423093.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "71636f59b30abdba4f219b0bd1bc122c31277f4dacc4a41b72619ad79371223a"
+      "path": "assets/products/cloud-fringe-scarf-hd-22.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-22-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-22.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "059955636750f3e8c8e6c009152995e84088442eeee0bbaf94de78ef7414536c",
+      "sha256": "1024b90a0228b432749b8cf5b8c1e47d201abff1ed89931f52a718d68a60f276",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/foldover-beanie-05.webp",
-      "thumbnail": "assets/products/foldover-beanie-05-small.webp",
-      "productId": "foldover-beanie",
-      "supplierProductId": "979430423093",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-06.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979430423093.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "dd4d861c4cdde2c96abe772b20a905a8d1756eb45b8ed90f6e19bcd951e31be3"
+      "path": "assets/products/cloud-fringe-scarf-hd-23.webp",
+      "thumbnail": "assets/products/cloud-fringe-scarf-hd-23-small.webp",
+      "productId": "cloud-fringe-scarf",
+      "supplierProductId": "758587460197",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/758587460197/HD-23.webp",
+      "sourceUrl": "https://detail.1688.com/offer/758587460197.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "2e293a81ca2d00dbb284f0fcce21ea296cd277ffe580e4b06e43ec977374eea8",
+      "sha256": "1767d0abb32462afb82a2883dd6e85985d1dd3a64d916b3d4f42b5bb38821208",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/foldover-beanie-06.webp",
-      "thumbnail": "assets/products/foldover-beanie-06-small.webp",
-      "productId": "foldover-beanie",
-      "supplierProductId": "979430423093",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-09.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979430423093.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "e266bee19f3b07d8afcaf81c9d8c074a97cffddd441effc7432951ae60d4dacf"
-    },
-    {
-      "path": "assets/products/foldover-beanie-07.webp",
-      "thumbnail": "assets/products/foldover-beanie-07-small.webp",
-      "productId": "foldover-beanie",
-      "supplierProductId": "979430423093",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-12.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979430423093.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "e6a33d49128e3d026208c48d07acb39622caa71217eb7da1702ff1ec37ffce37"
-    },
-    {
-      "path": "assets/products/weekend-stripe-scarf-01.webp",
-      "thumbnail": "assets/products/weekend-stripe-scarf-01-small.webp",
+      "path": "assets/products/weekend-stripe-scarf-hd-01.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-01-small.webp",
       "productId": "weekend-stripe-scarf",
       "supplierProductId": "846384678128",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/846384678128.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "50de6dd9d9cc4c7831c0d30a096d8048bef990c9090a081f141b5111e7b94a70"
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "7ce24ff8a8b4faa184447fb5afa85231439f32a91efd2a27134070a2193b74b8",
+      "sha256": "50de6dd9d9cc4c7831c0d30a096d8048bef990c9090a081f141b5111e7b94a70",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/weekend-stripe-scarf-02.webp",
-      "thumbnail": "assets/products/weekend-stripe-scarf-02-small.webp",
+      "path": "assets/products/weekend-stripe-scarf-hd-02.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-02-small.webp",
       "productId": "weekend-stripe-scarf",
       "supplierProductId": "846384678128",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/846384678128.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "fed97eea2bfd9359041cc61afd75e9e3111daaea8d1f017011bdc60d38a52ed1"
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a3df1c6ca25b9b32edd4cbb7ac727acf15ce45aee566c1190113af3eb8436ff0",
+      "sha256": "fed97eea2bfd9359041cc61afd75e9e3111daaea8d1f017011bdc60d38a52ed1",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/weekend-stripe-scarf-03.webp",
-      "thumbnail": "assets/products/weekend-stripe-scarf-03-small.webp",
+      "path": "assets/products/weekend-stripe-scarf-hd-03.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-03-small.webp",
       "productId": "weekend-stripe-scarf",
       "supplierProductId": "846384678128",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/846384678128.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "429e717a5819e3c529ae1f6fd855163de91c4e7b560252e5c625e1e1951e11cc"
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f0e337995ed5bc7c249642ab92fb5f75b0c5d2b549f68ddc8a16fbde0976fae9",
+      "sha256": "429e717a5819e3c529ae1f6fd855163de91c4e7b560252e5c625e1e1951e11cc",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/weekend-stripe-scarf-04.webp",
-      "thumbnail": "assets/products/weekend-stripe-scarf-04-small.webp",
+      "path": "assets/products/weekend-stripe-scarf-hd-04.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-04-small.webp",
       "productId": "weekend-stripe-scarf",
       "supplierProductId": "846384678128",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/846384678128.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "0255b780f653d56a61793eb0ebd90c565be4294b9657d007b648f1e37129a663"
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a0da5426a49441f4228585d44b643594b86e2d460ee65309a9a12e70ab25e7af",
+      "sha256": "0255b780f653d56a61793eb0ebd90c565be4294b9657d007b648f1e37129a663",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/weekend-stripe-scarf-05.webp",
-      "thumbnail": "assets/products/weekend-stripe-scarf-05-small.webp",
+      "path": "assets/products/weekend-stripe-scarf-hd-06.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-06-small.webp",
       "productId": "weekend-stripe-scarf",
       "supplierProductId": "846384678128",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-06.webp",
-      "sourceUrl": "http://detail.1688.com/offer/846384678128.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "edde8acf6a5f9737ef75018824f5655ea82bdaa958657248a56d9ca47ae76634"
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "467c435e8e731f1a505783f78df38eac718b32d460319e41f187626ca14c435f",
+      "sha256": "edde8acf6a5f9737ef75018824f5655ea82bdaa958657248a56d9ca47ae76634",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/weekend-stripe-scarf-06.webp",
-      "thumbnail": "assets/products/weekend-stripe-scarf-06-small.webp",
+      "path": "assets/products/weekend-stripe-scarf-hd-07.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-07-small.webp",
       "productId": "weekend-stripe-scarf",
       "supplierProductId": "846384678128",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-07.webp",
-      "sourceUrl": "http://detail.1688.com/offer/846384678128.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "75222db5c0e29be8a542ffa1d70bc2ddc8c161f3d6f79e0f3d8b1785eab8a3bb"
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a31c715c583899b74528ba1bf3486c1dc87e089ab7cad6ec7f3aad6e6fc4814a",
+      "sha256": "75222db5c0e29be8a542ffa1d70bc2ddc8c161f3d6f79e0f3d8b1785eab8a3bb",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/roll-edge-beanie-01.webp",
-      "thumbnail": "assets/products/roll-edge-beanie-01-small.webp",
-      "productId": "roll-edge-beanie",
-      "supplierProductId": "985455179031",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/985455179031.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "1c5677c39d86275a34f72990b91fef819d6622abda78fcbf955b4890553f9e09"
+      "path": "assets/products/weekend-stripe-scarf-hd-08.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-08-small.webp",
+      "productId": "weekend-stripe-scarf",
+      "supplierProductId": "846384678128",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-08.webp",
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "d97a0d523dc45ed3af49c0dafd175ff964ad726b6a2d6596f90295d1559c4221",
+      "sha256": "f18ac3db45d52537a9685b845a5b324c6f7fe3a7751a28fcb141959a56c00cbc",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/roll-edge-beanie-02.webp",
-      "thumbnail": "assets/products/roll-edge-beanie-02-small.webp",
-      "productId": "roll-edge-beanie",
-      "supplierProductId": "985455179031",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/985455179031.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "f5076f620e94f7abe59d33bef32219cc1654e07e6693780bd8f37806aaed1fff"
+      "path": "assets/products/weekend-stripe-scarf-hd-09.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-09-small.webp",
+      "productId": "weekend-stripe-scarf",
+      "supplierProductId": "846384678128",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-09.webp",
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "2a19bc572f9f0fbf643e915f925bab2bfd2724c0afb5a57f92c184634e250787",
+      "sha256": "74a646fbcf98c9ce2b204cf22f3f47c5e4d0fe0a858d4b54ec5ef2ff0eff1ff5",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/roll-edge-beanie-03.webp",
-      "thumbnail": "assets/products/roll-edge-beanie-03-small.webp",
-      "productId": "roll-edge-beanie",
-      "supplierProductId": "985455179031",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/985455179031.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "ca35c01cac58a3d0d262a9da1e6cd8325b6b216dd95892db93bb6dd83ee7c1f6"
+      "path": "assets/products/weekend-stripe-scarf-hd-10.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-10-small.webp",
+      "productId": "weekend-stripe-scarf",
+      "supplierProductId": "846384678128",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-10.webp",
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "7b211c86f7b7746237c398a0bfc0a2741849fc6202fe1a8ebce771c22da468fd",
+      "sha256": "7e726982f627a8e83c5e2f6850049a1b77e565570fa62f9ae43bbf2088bd04f3",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/roll-edge-beanie-04.webp",
-      "thumbnail": "assets/products/roll-edge-beanie-04-small.webp",
-      "productId": "roll-edge-beanie",
-      "supplierProductId": "985455179031",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/985455179031.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "43eb931c5c7601df3f953380df8b6aae7b4dd5b38957f39ff9f2b48ff747145f"
+      "path": "assets/products/weekend-stripe-scarf-hd-11.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-11-small.webp",
+      "productId": "weekend-stripe-scarf",
+      "supplierProductId": "846384678128",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-11.webp",
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f90c90285e678b5ece145a396bb590ef75ed40f4e22a75c14f98acee348461a9",
+      "sha256": "910c8c9ffc1868d46bf9f571cf37960a6a40be15fd4ef15eaa1e646cfb96893f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/roll-edge-beanie-05.webp",
-      "thumbnail": "assets/products/roll-edge-beanie-05-small.webp",
-      "productId": "roll-edge-beanie",
-      "supplierProductId": "985455179031",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-06.webp",
-      "sourceUrl": "http://detail.1688.com/offer/985455179031.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "0d048b431454f0a4a0dfc4f71fdec1361d4c7a83d52ea417f66f0a1b4fd5e1e9"
+      "path": "assets/products/weekend-stripe-scarf-hd-12.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-12-small.webp",
+      "productId": "weekend-stripe-scarf",
+      "supplierProductId": "846384678128",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-12.webp",
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "2e6a4cb2d11e06ca348f0937b88004e206c272f8a6bd664a8e1784c11c13a777",
+      "sha256": "1d8d976553b102a663e1e6919594a774973811fa70893dda4b98fead1680b51f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/roll-edge-beanie-06.webp",
-      "thumbnail": "assets/products/roll-edge-beanie-06-small.webp",
-      "productId": "roll-edge-beanie",
-      "supplierProductId": "985455179031",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-10.webp",
-      "sourceUrl": "http://detail.1688.com/offer/985455179031.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "42665a985c73d9ea125ca244466e34316a9379e902250aa7a2bc9de3b4a455f1"
+      "path": "assets/products/weekend-stripe-scarf-hd-13.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-13-small.webp",
+      "productId": "weekend-stripe-scarf",
+      "supplierProductId": "846384678128",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-13.webp",
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "5e26fe70087a2cecb0f8d939317ae72ac82d8bc8eb9d9f76edd4efe37aa4a3ef",
+      "sha256": "7a4b8cd5fa5844b6992b426b0f2e7cdbd564d58b6ca55618d90d9b05a06d8a96",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/roll-edge-beanie-07.webp",
-      "thumbnail": "assets/products/roll-edge-beanie-07-small.webp",
-      "productId": "roll-edge-beanie",
-      "supplierProductId": "985455179031",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-15.webp",
-      "sourceUrl": "http://detail.1688.com/offer/985455179031.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "589972494eea91ee1c5b7bbc7cbc0c982b19fe943809dca31e9997a2f8d185f6"
+      "path": "assets/products/weekend-stripe-scarf-hd-14.webp",
+      "thumbnail": "assets/products/weekend-stripe-scarf-hd-14-small.webp",
+      "productId": "weekend-stripe-scarf",
+      "supplierProductId": "846384678128",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/846384678128/HD-14.webp",
+      "sourceUrl": "https://detail.1688.com/offer/846384678128.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "8fd59156119de5b09cffc7894457eddc69baaf1e01aa94f9d5579bc604ad5722",
+      "sha256": "975305384b39c75c513b7998fa6137b13ab772213ea65c20f56c1697adfc6d78",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/color-study-scarf-01.webp",
-      "thumbnail": "assets/products/color-study-scarf-01-small.webp",
+      "path": "assets/products/color-study-scarf-hd-01.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-01-small.webp",
       "productId": "color-study-scarf",
       "supplierProductId": "970422787632",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/970422787632.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "657179cce2374a78d032b2435c1520949e981f007a4aa929f1ee77cf673b2af7"
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "900188bcda668d51f5262517fe8fbd283bd019d8cf3faca40e6fc2caee2b4e35",
+      "sha256": "657179cce2374a78d032b2435c1520949e981f007a4aa929f1ee77cf673b2af7",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/color-study-scarf-02.webp",
-      "thumbnail": "assets/products/color-study-scarf-02-small.webp",
+      "path": "assets/products/color-study-scarf-hd-02.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-02-small.webp",
       "productId": "color-study-scarf",
       "supplierProductId": "970422787632",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/970422787632.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "c718fcffe0528f6e37054e6d684bd68326bbea07fb93d801ee20022a32dd5418"
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f3936df36df7124a0c4ce341de548b737b097823e24b96a8ffac0a312c982e1e",
+      "sha256": "c718fcffe0528f6e37054e6d684bd68326bbea07fb93d801ee20022a32dd5418",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/color-study-scarf-03.webp",
-      "thumbnail": "assets/products/color-study-scarf-03-small.webp",
+      "path": "assets/products/color-study-scarf-hd-03.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-03-small.webp",
       "productId": "color-study-scarf",
       "supplierProductId": "970422787632",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/970422787632.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "e8ce5292e3f3e148eaec73ce89b81630f6e787d659678cbca10cf7e37b49b67a"
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "285a2d5f3c3ae94412b42242e292dd6ef8d13099c65b50c9d7af291d77f3365d",
+      "sha256": "e8ce5292e3f3e148eaec73ce89b81630f6e787d659678cbca10cf7e37b49b67a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/color-study-scarf-04.webp",
-      "thumbnail": "assets/products/color-study-scarf-04-small.webp",
+      "path": "assets/products/color-study-scarf-hd-04.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-04-small.webp",
       "productId": "color-study-scarf",
       "supplierProductId": "970422787632",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/970422787632.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "1ea23895eb01a3723e7f74c5021a783796556a712fd932192b4e5fade2daac4c"
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "54667bc2c491293af9eef7f0da3d0e03d1d38382abb772f5c534d2213dee72d1",
+      "sha256": "1ea23895eb01a3723e7f74c5021a783796556a712fd932192b4e5fade2daac4c",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/color-study-scarf-05.webp",
-      "thumbnail": "assets/products/color-study-scarf-05-small.webp",
+      "path": "assets/products/color-study-scarf-hd-06.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-06-small.webp",
       "productId": "color-study-scarf",
       "supplierProductId": "970422787632",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-06.webp",
-      "sourceUrl": "http://detail.1688.com/offer/970422787632.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "331dd8732073180eb593e839b510a06cf670fb653bf83659b8d1bd2567011768"
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6631ef7b21884e073a42a36ff7e481d89b96b85c5a2e929b0f8586ab91847444",
+      "sha256": "331dd8732073180eb593e839b510a06cf670fb653bf83659b8d1bd2567011768",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/color-study-scarf-06.webp",
-      "thumbnail": "assets/products/color-study-scarf-06-small.webp",
+      "path": "assets/products/color-study-scarf-hd-07.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-07-small.webp",
+      "productId": "color-study-scarf",
+      "supplierProductId": "970422787632",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-07.webp",
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "084de8472dbceabf9fb5dc1bd8cc56b5f2f909a4ec6e10916dc8d80e645367a5",
+      "sha256": "4c3e375181af866f910836beff974442b14f07a3ebf138441219915e227f1b6f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/color-study-scarf-hd-08.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-08-small.webp",
+      "productId": "color-study-scarf",
+      "supplierProductId": "970422787632",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-08.webp",
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "c50dc4d73d395196acc471b17b30fb732a61980e1cacfe6af2cb454317a799fa",
+      "sha256": "d8da7ca54530a1d52cf07f9036a9690b8628e5bed6756d831200919552869ca5",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/color-study-scarf-hd-09.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-09-small.webp",
+      "productId": "color-study-scarf",
+      "supplierProductId": "970422787632",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-09.webp",
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "7d6b2fc2376b52043984ed3dcf198004611dcd3845f4d37212aae0b1db81479a",
+      "sha256": "f00469bb2acb5560c7ff9fe39a9e71d2c0d443645287b468843b416baee258cd",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/color-study-scarf-hd-10.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-10-small.webp",
+      "productId": "color-study-scarf",
+      "supplierProductId": "970422787632",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-10.webp",
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "728a5d29c44485609145741058dc37e38aaacea345d38c80a843cb03763e6b20",
+      "sha256": "fe3613c423ec39a9b816ea0b96d06c989f735c75da8c8bf7cd471ff881748bc4",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/color-study-scarf-hd-11.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-11-small.webp",
+      "productId": "color-study-scarf",
+      "supplierProductId": "970422787632",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-11.webp",
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "0c90174ec157433ec835db82c2f319575e0b85a447c9dc83c55cd8e1609a9a48",
+      "sha256": "6d86e7ef8e020e24ee066d0aa29b2bfa88e10f3e90dbdac09b6602fc118af9b1",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/color-study-scarf-hd-12.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-12-small.webp",
       "productId": "color-study-scarf",
       "supplierProductId": "970422787632",
       "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-12.webp",
-      "sourceUrl": "http://detail.1688.com/offer/970422787632.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "ca788b1c64fddddf598ddd5dd2aba491ee43a1740680ebbf4fe42591768bb569"
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "2fdd20beabb09d1e9e92445ff0218560d5d1ae1caec48cec79d4d336117fa29c",
+      "sha256": "ca788b1c64fddddf598ddd5dd2aba491ee43a1740680ebbf4fe42591768bb569",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/library-check-scarf-01.webp",
-      "thumbnail": "assets/products/library-check-scarf-01-small.webp",
-      "productId": "library-check-scarf",
-      "supplierProductId": "979622650557",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979622650557/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979622650557.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "9f9f5ca7460ee92e2d1b632b706a49256b1005a7c9af79ef834645ece9854f66"
+      "path": "assets/products/color-study-scarf-hd-13.webp",
+      "thumbnail": "assets/products/color-study-scarf-hd-13-small.webp",
+      "productId": "color-study-scarf",
+      "supplierProductId": "970422787632",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/970422787632/HD-13.webp",
+      "sourceUrl": "https://detail.1688.com/offer/970422787632.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "9652c6a683d26ca0a29165cfd18be4712fa3b79e24bc6d9114a48338b0e47bc3",
+      "sha256": "f6f327e3c2f62e63e2ec4a3b0d33f1739a18a89c457d063f822f05a78cbff373",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/library-check-scarf-02.webp",
-      "thumbnail": "assets/products/library-check-scarf-02-small.webp",
-      "productId": "library-check-scarf",
-      "supplierProductId": "979622650557",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979622650557/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979622650557.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "00d0721e3e01df8a6fb755f81cfe2bae07ab273f796a5d042c866f6958f7043a"
+      "path": "assets/products/woodland-jacquard-scarf-hd-01.webp",
+      "thumbnail": "assets/products/woodland-jacquard-scarf-hd-01-small.webp",
+      "productId": "woodland-jacquard-scarf",
+      "supplierProductId": "980661845664",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980661845664/HD-01.webp",
+      "sourceUrl": "https://detail.1688.com/offer/980661845664.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "4d4203c0fe635e7bed07a4060236bf50669daec58b2f9e3d04e07b6ce04b395b",
+      "sha256": "f64360560767f55dd249c78911d7bbdbd78e368b5863b3b2018e158478467c77",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/library-check-scarf-03.webp",
-      "thumbnail": "assets/products/library-check-scarf-03-small.webp",
-      "productId": "library-check-scarf",
-      "supplierProductId": "979622650557",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979622650557/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979622650557.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "81d8108fae9cfad1e6839cf28d8b5d6eaaa6b40639aebebe2e955ffd8f2adf7d"
+      "path": "assets/products/woodland-jacquard-scarf-hd-02.webp",
+      "thumbnail": "assets/products/woodland-jacquard-scarf-hd-02-small.webp",
+      "productId": "woodland-jacquard-scarf",
+      "supplierProductId": "980661845664",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980661845664/HD-02.webp",
+      "sourceUrl": "https://detail.1688.com/offer/980661845664.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "54345960c77bd8dbb4b06767ae03f6219ae6d2a468edb8fbb3634619951923bf",
+      "sha256": "86ea21f152f009a3c2a5ce5269b83d8ded07c7bd16f500ffa7e2197c31fdf933",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/library-check-scarf-04.webp",
-      "thumbnail": "assets/products/library-check-scarf-04-small.webp",
-      "productId": "library-check-scarf",
-      "supplierProductId": "979622650557",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979622650557/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979622650557.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "97c9294f003bdad59da9ddfbbfd7fade0f688ca849e2ff7d9d4c9da9abc63ded"
+      "path": "assets/products/woodland-jacquard-scarf-hd-03.webp",
+      "thumbnail": "assets/products/woodland-jacquard-scarf-hd-03-small.webp",
+      "productId": "woodland-jacquard-scarf",
+      "supplierProductId": "980661845664",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980661845664/HD-03.webp",
+      "sourceUrl": "https://detail.1688.com/offer/980661845664.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "cc1f7046e635259134f66bc90e4a3ebcb27270d0684f1c2cba6c668cf77bb1a4",
+      "sha256": "1ff40876e2590c3eea214dd28292a8690eee80dc4a871717d2d8dfba3b369919",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/library-check-scarf-05.webp",
-      "thumbnail": "assets/products/library-check-scarf-05-small.webp",
-      "productId": "library-check-scarf",
-      "supplierProductId": "979622650557",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979622650557/HD-05.webp",
-      "sourceUrl": "http://detail.1688.com/offer/979622650557.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "16876923f8e5961a4a844050cc4670c642ed8c0a4f5d031ed57282c5c7166736"
+      "path": "assets/products/woodland-jacquard-scarf-hd-04.webp",
+      "thumbnail": "assets/products/woodland-jacquard-scarf-hd-04-small.webp",
+      "productId": "woodland-jacquard-scarf",
+      "supplierProductId": "980661845664",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980661845664/HD-04.webp",
+      "sourceUrl": "https://detail.1688.com/offer/980661845664.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "4594648878992ab3d61b3555e1e633b3ecc8b9b328290c593c7a3096f02e6f0c",
+      "sha256": "6355ba1fdb54815636ba25c95f513f088cbc53024022b4fa82687fb9d4fd2210",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/argyle-skinny-scarf-01.webp",
-      "thumbnail": "assets/products/argyle-skinny-scarf-01-small.webp",
-      "productId": "argyle-skinny-scarf",
-      "supplierProductId": "848993060059",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/848993060059/HD-01.webp",
-      "sourceUrl": "http://detail.1688.com/offer/848993060059.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "66775f4e0e7035760be0ec1bc5857e5fff58189439fdfdef9a7f1cde678202b9"
+      "path": "assets/products/woodland-jacquard-scarf-hd-06.webp",
+      "thumbnail": "assets/products/woodland-jacquard-scarf-hd-06-small.webp",
+      "productId": "woodland-jacquard-scarf",
+      "supplierProductId": "980661845664",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980661845664/HD-06.webp",
+      "sourceUrl": "https://detail.1688.com/offer/980661845664.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "e2f5f2c78db614c6a4e4878cd7a222387d2ed68897be686874b4ce44696d31f4",
+      "sha256": "6d7cdfa5416c7247d680744c6593c7c425e330af001e0a9f84883ad196e992b7",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/argyle-skinny-scarf-02.webp",
-      "thumbnail": "assets/products/argyle-skinny-scarf-02-small.webp",
-      "productId": "argyle-skinny-scarf",
-      "supplierProductId": "848993060059",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/848993060059/HD-02.webp",
-      "sourceUrl": "http://detail.1688.com/offer/848993060059.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "5aefa6704c3a767454626fa1a5cca4d96842bfc4da38305630c90d4372a63629"
+      "path": "assets/products/woodland-jacquard-scarf-hd-07.webp",
+      "thumbnail": "assets/products/woodland-jacquard-scarf-hd-07-small.webp",
+      "productId": "woodland-jacquard-scarf",
+      "supplierProductId": "980661845664",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980661845664/HD-07.webp",
+      "sourceUrl": "https://detail.1688.com/offer/980661845664.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "ab3c85a04599538b5dc4e118014b301cde446cd841986e0cb0274c9da8626e33",
+      "sha256": "e406fc263798bba3969b8d8da25d66d6ee65116a4797a10c68d3d22129249f07",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
     },
     {
-      "path": "assets/products/argyle-skinny-scarf-03.webp",
-      "thumbnail": "assets/products/argyle-skinny-scarf-03-small.webp",
-      "productId": "argyle-skinny-scarf",
-      "supplierProductId": "848993060059",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/848993060059/HD-03.webp",
-      "sourceUrl": "http://detail.1688.com/offer/848993060059.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "9af27e1cfe36707bb0d83520bc918e4d43ebaee60de8338a2db30ff380c40a45"
+      "path": "assets/products/triangle-neck-scarf-main.webp",
+      "thumbnail": "assets/products/triangle-neck-scarf-main-small.webp",
+      "productId": "triangle-neck-scarf",
+      "supplierProductId": "969378414927",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/969378414927/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/969378414927.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "aa498ab19beda83dea0c61ae41ecb397e4c41a298b73977458842613399bc2aa",
+      "sha256": "d1e858861736eadb32762b8436940341b8d7b55500bd2d416ce0091feadcabd4",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/argyle-skinny-scarf-04.webp",
-      "thumbnail": "assets/products/argyle-skinny-scarf-04-small.webp",
-      "productId": "argyle-skinny-scarf",
-      "supplierProductId": "848993060059",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/848993060059/HD-04.webp",
-      "sourceUrl": "http://detail.1688.com/offer/848993060059.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "0e7647be457ad078e92172f218300c3a3ef32ab325455159b035579dba1e9699"
+      "path": "assets/products/long-tassel-scarf-main.webp",
+      "thumbnail": "assets/products/long-tassel-scarf-main-small.webp",
+      "productId": "long-tassel-scarf",
+      "supplierProductId": "733436976602",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/733436976602/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/733436976602.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "ec2b64a4850fe0b2300dad6fff42fff01d0fb8c9320aa5a5296de06486507c34",
+      "sha256": "bded276ac0cbb295516a2076d5fdc671bf545082d26976b56be88b8e9c7dacb2",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     },
     {
-      "path": "assets/products/argyle-skinny-scarf-05.webp",
-      "thumbnail": "assets/products/argyle-skinny-scarf-05-small.webp",
-      "productId": "argyle-skinny-scarf",
-      "supplierProductId": "848993060059",
-      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/848993060059/HD-05.webp",
-      "sourceUrl": "http://detail.1688.com/offer/848993060059.html",
-      "rightsStatus": "User confirmed permission to use supplier listing photography for this public demo on 2026-10-02. Permanent commercial rights are not asserted.",
-      "sha256": "60dac5fee6642e603a407d06dcbfb2dadfc7510fbfddca3dbae7cddb9f23b715"
+      "path": "assets/products/heather-fringe-scarf-main.webp",
+      "thumbnail": "assets/products/heather-fringe-scarf-main-small.webp",
+      "productId": "heather-fringe-scarf",
+      "supplierProductId": "973679799647",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/973679799647/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/973679799647.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "d96bd2bc8db14d74f01b9e04ea584083e09e1f33d2e4f5e5811a90b856886bca",
+      "sha256": "85ea806a40f01c8234e3374594c02c9f4680477d1569065bc80d2117ad742a3b",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/simple-knit-scarf-main.webp",
+      "thumbnail": "assets/products/simple-knit-scarf-main-small.webp",
+      "productId": "simple-knit-scarf",
+      "supplierProductId": "978837793307",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/978837793307/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/978837793307.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "ed879c90e9bad86a3bb2e38db9d96709bd1c462dddb4d983210a12e8b8e2273f",
+      "sha256": "71c03352edb9103649208aacd5bfdb2e566ac560fd89d9b04cd0954df69bf4e4",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/little-triangle-scarf-main.webp",
+      "thumbnail": "assets/products/little-triangle-scarf-main-small.webp",
+      "productId": "little-triangle-scarf",
+      "supplierProductId": "968701169538",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/968701169538/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/968701169538.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "1b900deb9ff2b7b796a121cda4a5c99dba9b20b617605df2a0d3d82d70f0805b",
+      "sha256": "2f75d2935a3c7b2edba2cb197d405dbef7f09d4131022bb29d9eb245e9276a3f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/airy-fringe-scarf-main.webp",
+      "thumbnail": "assets/products/airy-fringe-scarf-main-small.webp",
+      "productId": "airy-fringe-scarf",
+      "supplierProductId": "975560404005",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/975560404005/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/975560404005.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "0e93c8b7034f77747d9eef4c43258422da46134ce7d417a75fd9f8b9d19a7634",
+      "sha256": "2b84f18cb0728af9379765d60ef6261404e702fa6927080f9911f0c92f77157a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/cable-knit-scarf-main.webp",
+      "thumbnail": "assets/products/cable-knit-scarf-main-small.webp",
+      "productId": "cable-knit-scarf",
+      "supplierProductId": "972603856165",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/972603856165/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/972603856165.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6c609b16031db8292d3453a8ba38dbd873c4afe4c1cf72cf820d0fcb2b97379c",
+      "sha256": "baccbe46c48b7ab1802f443977c18a245562bf8caf9a93b70c8bd0e37ed72237",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/curl-knit-scarf-main.webp",
+      "thumbnail": "assets/products/curl-knit-scarf-main-small.webp",
+      "productId": "curl-knit-scarf",
+      "supplierProductId": "987128158454",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/987128158454/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/987128158454.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "5b24b072205f80f3af63eb08ea98aa46fb336a6832cd94b93a476f3024d2373c",
+      "sha256": "e54b25bd6d67bff8c708fabbc228ca301e16211b68f595eac2aa04a812295fbc",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/soft-long-scarf-main.webp",
+      "thumbnail": "assets/products/soft-long-scarf-main-small.webp",
+      "productId": "soft-long-scarf",
+      "supplierProductId": "977521666052",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/977521666052/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/977521666052.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "198254d2959650bf84d7d58f8bef9b5997b8245a741f3ef4f5df9d8344336a71",
+      "sha256": "0bc4542199c7d0613da0b9b672f9e1c75251288e14a3dbe47b2a664ff1a93eb2",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/wide-fringe-scarf-main.webp",
+      "thumbnail": "assets/products/wide-fringe-scarf-main-small.webp",
+      "productId": "wide-fringe-scarf",
+      "supplierProductId": "989617709146",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/989617709146/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/989617709146.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "de5d9c6ebf1d9ac552a45d87f02877068abadeb712dc676e9d6e904c0d920f49",
+      "sha256": "ef7ab0d998204bc51b1bf1e80e103d078cc9709774cc08e985ee07d8d3ceb571",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/border-triangle-scarf-main.webp",
+      "thumbnail": "assets/products/border-triangle-scarf-main-small.webp",
+      "productId": "border-triangle-scarf",
+      "supplierProductId": "985979021495",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985979021495/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/985979021495.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "9959a4779eddec2684fe80f9ebdf06c9177acbed199d0e9408a57ea1c1d94e48",
+      "sha256": "2da34a9dfdad96803a3f695f786ae0454980df5b1b275aaee83b14ba0e9438f2",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/short-rib-scarf-main.webp",
+      "thumbnail": "assets/products/short-rib-scarf-main-small.webp",
+      "productId": "short-rib-scarf",
+      "supplierProductId": "972728833958",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/972728833958/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/972728833958.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "eb51c44e74037926762cd0f298b22d9aec8d98e061b1dcb31c5b115fbceee06d",
+      "sha256": "b46e9698055f53726e80be2a84cb0963809ed414e6a4864f6e7797b97d902181",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/pastel-check-scarf-main.webp",
+      "thumbnail": "assets/products/pastel-check-scarf-main-small.webp",
+      "productId": "pastel-check-scarf",
+      "supplierProductId": "733431804472",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/733431804472/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/733431804472.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "aecc2f4a4e072ad9dfaa85c020ae86c4bee83685b4057dbff69829200f42ca31",
+      "sha256": "769c69f436756af074f3c233704d25eb7909fcfc403612366062b35979a2a78c",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-01.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-01-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-01.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6d3f7c01ce158c142a914ab507375e07068231396aeed20ef1ab5fdc034fa694",
+      "sha256": "f95ae481df09830171156bd6f59a14f60f9639a6bf8747af34065b759870cb16",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-02.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-02-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-02.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "24b0e9086f48cd8fb0b735eae189e2015fc556bb77a10a517570800409bd2593",
+      "sha256": "ca74a3090d91438c4c96cc026672078316a89beb8d8495b8e9f675fc7a34b699",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-03.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-03-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-03.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "0275f1ef344194f37fb7ce1d508f3760972262fb5b813ead023c3a341436d95f",
+      "sha256": "06bc2efd6cced5e65d8ad6b80e18fcba71443f30e464df85940444f73e8968e1",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-04.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-04-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-04.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "c46863cfebb9a0f41d9307af2f63ca00e9c622f76ba1536092c4a8e6265d49de",
+      "sha256": "71636f59b30abdba4f219b0bd1bc122c31277f4dacc4a41b72619ad79371223a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-06.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-06-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-06.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "95136f4f1b09dbad5add3b07367e9beb44b827269be8c1f9246926cd340218a6",
+      "sha256": "dd4d861c4cdde2c96abe772b20a905a8d1756eb45b8ed90f6e19bcd951e31be3",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-07.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-07-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-07.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a04820178c0d1f86066d44c3d02e620f2c273860260b3c9c79ec246bda8d61ee",
+      "sha256": "9005752d414a5f4b70a23031cec981171ecba8b6497f2c2eeaea6cf0442c2a5d",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-08.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-08-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-08.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "86816ca07ac853e285b2ffe6ef5c78b77cfe464c2cc813f5d653d4de9d259f38",
+      "sha256": "903820a2d7bc1a4a5a534bedcf95c49c810cfb49315756099e86566bcbacf818",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-09.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-09-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-09.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a253e9e55307dbc6a042c028ffaf381a9292403e6e8d9b5baacc2f90ca4e40b4",
+      "sha256": "e266bee19f3b07d8afcaf81c9d8c074a97cffddd441effc7432951ae60d4dacf",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-10.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-10-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-10.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "fb2e587cec0d4227959ace85b7dd554651b80dc06b28de5d0f386ceeb4f246d5",
+      "sha256": "581a87e1fa54d38ef9db88462b1303af7f283a33e8085acc17ad3cf6d2f6edb7",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-11.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-11-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-11.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "588b938f10867a2816b8558105395de76da2374a878a961e2dae30df792f247c",
+      "sha256": "d04c10b9fa156ee6e194254d6a14006498d004467aaa7c48d9101f06d7849907",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-12.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-12-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-12.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "c8527a43e66e8301a153108b7d9d57deba5deaee7341977064eb3530515cd74e",
+      "sha256": "e6a33d49128e3d026208c48d07acb39622caa71217eb7da1702ff1ec37ffce37",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/foldover-beanie-hd-13.webp",
+      "thumbnail": "assets/products/foldover-beanie-hd-13-small.webp",
+      "productId": "foldover-beanie",
+      "supplierProductId": "979430423093",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979430423093/HD-13.webp",
+      "sourceUrl": "https://detail.1688.com/offer/979430423093.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f1dfb5f8e33d38ee103901915359d4d7b4cae9aa03df500bfbcb2caf476c84d3",
+      "sha256": "16c72f64e13ecd787adb7455a0ae9c3a05556404bf0e30e68e26f97e173402a4",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-01.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-01-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-01.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "5912e784870e356b7889330fecde71cb9d8ae3a800951b84ebfebf8d7d280a9a",
+      "sha256": "1c5677c39d86275a34f72990b91fef819d6622abda78fcbf955b4890553f9e09",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-02.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-02-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-02.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "64fbe24b9ae41de6c6ee1ccf730a4994a5ea16743a91adfc1625c442e2b89ac2",
+      "sha256": "f5076f620e94f7abe59d33bef32219cc1654e07e6693780bd8f37806aaed1fff",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-03.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-03-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-03.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "44c2971a6ba410388b3f55429fd4a9ed96a4d203478574e6e45b5fb1743c4cb6",
+      "sha256": "ca35c01cac58a3d0d262a9da1e6cd8325b6b216dd95892db93bb6dd83ee7c1f6",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-04.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-04-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-04.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6dea29ea8037bef603466fa3ee96f7123218efaa0134416fda06cbd7feabf405",
+      "sha256": "43eb931c5c7601df3f953380df8b6aae7b4dd5b38957f39ff9f2b48ff747145f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-06.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-06-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-06.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "d4fa88a9412b452521d32736a12800b69821032ca203175a1fdaba7e020af0e1",
+      "sha256": "0d048b431454f0a4a0dfc4f71fdec1361d4c7a83d52ea417f66f0a1b4fd5e1e9",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-07.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-07-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-07.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "029c04d875e3f5980857bb594d0d40a0c2bf831fc593ad37baed3645769ce77c",
+      "sha256": "c2dcf167c55baecf0d13179ef291922d2b11691522574c3d13f3505a3fb409cd",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-08.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-08-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-08.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "5d727678295573893e53754a1d6899734dd00693383963e68e7a7dbcba46b2bd",
+      "sha256": "e54ec79a76479f1385f2039379c58cb954fbb7873952a9a4744046222cbc3edf",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-09.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-09-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-09.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "af3b03341726a094933a2844f0612007aba6d1b51140de2800c3d6ab41122d9b",
+      "sha256": "7f5b49ab1a67b67311ef65a87dd4081cf0c62424f2de124f6ecd8f5cb6f4420a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-10.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-10-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-10.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "039b273c61005ed804d1457c2188c47fc2f7512e58423658d901264df9b78697",
+      "sha256": "42665a985c73d9ea125ca244466e34316a9379e902250aa7a2bc9de3b4a455f1",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-11.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-11-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-11.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "c2f3360cfba81e7354cb4073643b4db613fff7bfb412da8354ed1e4bea43d1c4",
+      "sha256": "f9d28710c207c739d8b131279c38db80288c4de6e43a57eec52e8a7326d9b5e8",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-12.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-12-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-12.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f7c608769c9e8d7ba3b69189f195e2471a5ec68675bedbab2fad2762c7494dcd",
+      "sha256": "85989c324639586c1bf3d2e8190132316ec1fa322c6bcce265457bfd16d15ca9",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-13.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-13-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-13.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "491e0c78cd81bf7f00bc4df8409dd79c83ee4bd1f62cad8c44bb8fa7bc87ad76",
+      "sha256": "d3c145a6244e0b06e4074b62ec1b923b7b3af631ab607aec8099f7cae138ea97",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-14.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-14-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-14.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "73790d070549ac2f076e574ce0af4aaa45c9216ba431502a34952fb105fd9c7c",
+      "sha256": "ff253236db10d6844a1c7897be55897cb77de971e09daaf03ed5556ac72a726f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-15.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-15-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-15.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f11b4d9492fce2550b9949f2077fb920b3583089a1542b023895ceeb5016fd82",
+      "sha256": "589972494eea91ee1c5b7bbc7cbc0c982b19fe943809dca31e9997a2f8d185f6",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/roll-edge-beanie-hd-16.webp",
+      "thumbnail": "assets/products/roll-edge-beanie-hd-16-small.webp",
+      "productId": "roll-edge-beanie",
+      "supplierProductId": "985455179031",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/985455179031/HD-16.webp",
+      "sourceUrl": "https://detail.1688.com/offer/985455179031.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "14046f8e490f24c2c0478a8edf60dbaa15d974271553ff5702c1f798e4f6de3d",
+      "sha256": "8490860bca91d54a4f8c40a2b5ed0e9a271e7cd53a687068e6c294ba3855abfc",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/sunflower-beanie-main.webp",
+      "thumbnail": "assets/products/sunflower-beanie-main-small.webp",
+      "productId": "sunflower-beanie",
+      "supplierProductId": "981332652131",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/981332652131/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/981332652131.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6184fd285ffa085eff0c5400dbef58f6764703654b3514f13525f5daedc5f338",
+      "sha256": "a29b36d4d548b6a9b44d2b0477453a2646371ca7a01e6de1a12d86d498d0b607",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/hooded-knit-bonnet-main.webp",
+      "thumbnail": "assets/products/hooded-knit-bonnet-main-small.webp",
+      "productId": "hooded-knit-bonnet",
+      "supplierProductId": "827878456974",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827878456974/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/827878456974.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "315fa66029d30e4fbb2f78998c8391f2f04147eeb518235af112e091a16e2569",
+      "sha256": "b7328814b7e332e80461a053b163196c96409b8cce4c7766d444bb8b7eda0034",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/tie-knit-bonnet-main.webp",
+      "thumbnail": "assets/products/tie-knit-bonnet-main-small.webp",
+      "productId": "tie-knit-bonnet",
+      "supplierProductId": "822664482196",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/822664482196/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/822664482196.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "3ce4f80fb5945ff7710fa2566e9bcab42c50237f84777f08dc1a22bbc89c0afb",
+      "sha256": "230809c8855cca4f38d9000e0148b902afc1d7e453358a8154e745ab57e58070",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/fine-stripe-beanie-main.webp",
+      "thumbnail": "assets/products/fine-stripe-beanie-main-small.webp",
+      "productId": "fine-stripe-beanie",
+      "supplierProductId": "981055044261",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/981055044261/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/981055044261.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "c658bd60d65601ee07cf7edbd0f8cf66219c199af74f212c67c008395a03536c",
+      "sha256": "1fe8879a56177844c09a2cb5284efafee96f3f048cda37ab98097794492aa77b",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/bird-jacquard-beanie-main.webp",
+      "thumbnail": "assets/products/bird-jacquard-beanie-main-small.webp",
+      "productId": "bird-jacquard-beanie",
+      "supplierProductId": "980366133756",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980366133756/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/980366133756.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "6a29b481da40b8fd2419810d5547665cfd662fdf32ef47a86ed511e58cb7ac7d",
+      "sha256": "16105f56be9f30e11ee47182777a12d02c6ddd163275d0845b7bc9f9250e9618",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-01.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-01-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-01.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "8e1df2d17930e90e203d605c4726fc90a7033d1c1113e023360d73dbe69d37e1",
+      "sha256": "570eccd3a25d3c9390e01c6f50fe482d8c705545372cdb412e2244c7d0f0e769",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-02.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-02-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-02.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "33ab9542159c9b64d657404893e0ba24bb3ca6a2b8ea965070b95b94233b3a3b",
+      "sha256": "c3c5f4cab5e826744a32ddf0796ee3035593994a68894a0d410cf025d7ae4f0f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-03.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-03-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-03.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "cca52104d6dc90b336a1f2c3b85cd62532d8774d8e451ff2ab6cf7cd273f2ff7",
+      "sha256": "4d0f534eea62e510f8b09b106a9ef7deaa9f0afc90e7c51aba37a6b23a592b32",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-04.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-04-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-04.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "f0dceefd5977d28f96d90d5bd61319dff3d3d1dca7690e389d44473146885f34",
+      "sha256": "38f4e5833e05bea1a52124fb9369456f4796aa0ca6f159e2750e481dc148ac30",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-06.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-06-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-06.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "d5ee2bd00239913b46add5b3d27393a267a49424930980d62fa1fe11b53bfc7a",
+      "sha256": "461eff4bd88a4937b5d6175d548503cd8219bf74c8eb6cd806a5f03a2f9948f6",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-07.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-07-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-07.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "2a4fd8cec194b3c7aaf2f0f4827459bfe245f2916b5ddc6446b878ad4197ae54",
+      "sha256": "05875c2893f4306a324586642affaf668248b2755d279e6c9bcfb7657f203abb",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-08.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-08-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-08.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "697054d785555c1c08b2ed9ff878083a4394b26cec8d4e3b48d6c6e5da39e25d",
+      "sha256": "23b8b7c2813c437e19e83173f91f0c0a929ac0e8f862cc25e3d0780f15f6677f",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-09.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-09-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-09.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a415560b18dfb7ba5d448e5a9620b4739c1e150e76d7c6d52a0f211a9f6dd454",
+      "sha256": "dbac1a2384013e9909d18458344cc924bc5e30f7ddd091feae0745c42747b74a",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/everyday-knit-gloves-hd-10.webp",
+      "thumbnail": "assets/products/everyday-knit-gloves-hd-10-small.webp",
+      "productId": "everyday-knit-gloves",
+      "supplierProductId": "827746529066",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/827746529066/HD-10.webp",
+      "sourceUrl": "https://detail.1688.com/offer/827746529066.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "4a38dad19fbb3e37694b09f4c79a4b4e92f967b8e7b352fc51f459440543a5ca",
+      "sha256": "775e6b0f51e9cef1de1407a3bc226530261ba59ad3f068c68143b8cbe70cbbda",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "assets/products/cable-knit-gloves-main.webp",
+      "thumbnail": "assets/products/cable-knit-gloves-main-small.webp",
+      "productId": "cable-knit-gloves",
+      "supplierProductId": "980450868396",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/980450868396/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/980450868396.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "192891ef91913b368a0959415fd235ffe8bef727d55c83383873a97115f485ff",
+      "sha256": "2e0a2bb528e6017661e9d61fa3cd65183ed8cced061253213c64f6a0ffa0534d",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/sparkle-knit-gloves-main.webp",
+      "thumbnail": "assets/products/sparkle-knit-gloves-main-small.webp",
+      "productId": "sparkle-knit-gloves",
+      "supplierProductId": "971948181620",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/971948181620/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/971948181620.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "199d83242c23e3803d9958df60bd4b02fdd44b80165558f0e3d9052542b6a147",
+      "sha256": "42969bdc0b9351c2bd446d6412c20f872d99fb4ebc55c25fa40014733fbde888",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "path": "assets/products/brushed-knit-gloves-main.webp",
+      "thumbnail": "assets/products/brushed-knit-gloves-main-small.webp",
+      "productId": "brushed-knit-gloves",
+      "supplierProductId": "979362737649",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/979362737649/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/979362737649.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "33b395acb83849c724d24081c42b9ea8d87dc626f53490f35855ec79274dbae7",
+      "sha256": "d1748c84a030f329390f1f2c1a64efcc27ccaf46afe46bd989ed93313f17fc1e",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "path": "assets/products/open-finger-gloves-main.webp",
+      "thumbnail": "assets/products/open-finger-gloves-main-small.webp",
+      "productId": "open-finger-gloves",
+      "supplierProductId": "977878357555",
+      "sourceLocal": "output/1688-tlywfz-2026-10-02/images/977878357555/main-original.jpg",
+      "sourceUrl": "https://detail.1688.com/offer/977878357555.html",
+      "rightsStatus": "User confirmed permission for public demo on 2026-10-02; permanent commercial rights not asserted.",
+      "sourceSha256": "a5022760c93896d98ecc76093269d7db46f11c8df076fe93b4bb04481ace0c4a",
+      "sha256": "a1b46602c30c3c0ddfcf72b1d487820cbb7ba7d5adeeaf86d38e9730facf0768",
+      "transformation": "Format conversion and size compression only; original frame retained, no AI modification.",
+      "sourceDimensions": [
+        1200,
+        1200
+      ]
     }
   ]
 }

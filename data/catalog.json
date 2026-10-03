@@ -4,45 +4,76 @@
     "name": "Everyday Rib Scarf",
     "nameZh": "日常罗纹围巾",
     "category": "Scarves",
-    "description": "A clean, solid-colour scarf with ribbed edges. Wear the long ends loose or loop them over a jacket.",
-    "descriptionZh": "简洁的纯色围巾，配以罗纹边缘。让两端自然垂落，或绕一圈搭配外套。",
+    "description": "A long scarf with a ribbed surface and straight, neatly finished ends.",
+    "descriptionZh": "长条轮廓搭配罗纹织面，两端线条简洁。",
     "images": [
-      "assets/products/everyday-rib-scarf-01.webp",
-      "assets/products/everyday-rib-scarf-02.webp",
-      "assets/products/everyday-rib-scarf-03.webp",
-      "assets/products/everyday-rib-scarf-04.webp",
-      "assets/products/everyday-rib-scarf-05.webp",
-      "assets/products/everyday-rib-scarf-06.webp",
-      "assets/products/everyday-rib-scarf-07.webp"
+      "assets/products/everyday-rib-scarf-hd-01.webp",
+      "assets/products/everyday-rib-scarf-hd-02.webp",
+      "assets/products/everyday-rib-scarf-hd-03.webp",
+      "assets/products/everyday-rib-scarf-hd-04.webp",
+      "assets/products/everyday-rib-scarf-hd-06.webp",
+      "assets/products/everyday-rib-scarf-hd-07.webp",
+      "assets/products/everyday-rib-scarf-hd-08.webp",
+      "assets/products/everyday-rib-scarf-hd-09.webp",
+      "assets/products/everyday-rib-scarf-hd-10.webp",
+      "assets/products/everyday-rib-scarf-hd-11.webp",
+      "assets/products/everyday-rib-scarf-hd-12.webp",
+      "assets/products/everyday-rib-scarf-hd-13.webp",
+      "assets/products/everyday-rib-scarf-hd-14.webp",
+      "assets/products/everyday-rib-scarf-hd-15.webp",
+      "assets/products/everyday-rib-scarf-hd-16.webp",
+      "assets/products/everyday-rib-scarf-hd-17.webp",
+      "assets/products/everyday-rib-scarf-hd-18.webp",
+      "assets/products/everyday-rib-scarf-hd-19.webp",
+      "assets/products/everyday-rib-scarf-hd-20.webp"
     ],
-    "thumbnail": "assets/products/everyday-rib-scarf-01-small.webp",
+    "thumbnail": "assets/products/everyday-rib-scarf-hd-01-small.webp",
     "detailsEn": [
-      "A straight scarf silhouette with ribbed ends.",
-      "The photographs show several solid-colour styling options.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "A long scarf with a ribbed surface and straight, neatly finished ends.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
     ],
     "detailsZh": [
-      "长直围巾廓形，两端可见罗纹收边。",
-      "照片展示了多种纯色的穿搭效果。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "长条轮廓搭配罗纹织面，两端线条简洁。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
     ],
     "visualTagsEn": [
-      "solid colour",
-      "red",
-      "blue",
-      "green",
-      "ribbed",
-      "scarf"
+      "Navy",
+      "Black",
+      "Red",
+      "Grey",
+      "scarves"
     ],
     "visualTagsZh": [
-      "纯色",
+      "藏青",
+      "黑色",
       "红色",
-      "蓝色",
-      "绿色",
-      "罗纹",
+      "灰色",
       "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Navy",
+        "nameZh": "藏青",
+        "image": null,
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Red",
+        "nameZh": "红色",
+        "image": "assets/products/everyday-rib-scarf-hd-01.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Grey",
+        "nameZh": "灰色",
+        "image": null,
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
     ]
   },
   {
@@ -50,48 +81,77 @@
     "name": "Fringe Knit Scarf",
     "nameZh": "长款流苏围巾",
     "category": "Scarves",
-    "description": "A long scarf silhouette finished with fringe. An easy visual layer over everyday outfits.",
-    "descriptionZh": "长围裹轮廓配以流苏收边，为日常叠搭增加一点层次。",
+    "description": "A long scarf with a brushed-looking surface and fringe at the ends.",
+    "descriptionZh": "长围巾带细绒感织面，两端以流苏收尾。",
     "images": [
-      "assets/products/cloud-fringe-scarf-01.webp",
-      "assets/products/cloud-fringe-scarf-02.webp",
-      "assets/products/cloud-fringe-scarf-03.webp",
-      "assets/products/cloud-fringe-scarf-04.webp",
-      "assets/products/cloud-fringe-scarf-05.webp",
-      "assets/products/cloud-fringe-scarf-06.webp",
-      "assets/products/cloud-fringe-scarf-07.webp",
-      "assets/products/cloud-fringe-scarf-08.webp"
+      "assets/products/cloud-fringe-scarf-hd-01.webp",
+      "assets/products/cloud-fringe-scarf-hd-02.webp",
+      "assets/products/cloud-fringe-scarf-hd-03.webp",
+      "assets/products/cloud-fringe-scarf-hd-04.webp",
+      "assets/products/cloud-fringe-scarf-hd-06.webp",
+      "assets/products/cloud-fringe-scarf-hd-07.webp",
+      "assets/products/cloud-fringe-scarf-hd-08.webp",
+      "assets/products/cloud-fringe-scarf-hd-09.webp",
+      "assets/products/cloud-fringe-scarf-hd-10.webp",
+      "assets/products/cloud-fringe-scarf-hd-11.webp",
+      "assets/products/cloud-fringe-scarf-hd-12.webp",
+      "assets/products/cloud-fringe-scarf-hd-13.webp",
+      "assets/products/cloud-fringe-scarf-hd-14.webp",
+      "assets/products/cloud-fringe-scarf-hd-15.webp",
+      "assets/products/cloud-fringe-scarf-hd-16.webp",
+      "assets/products/cloud-fringe-scarf-hd-17.webp",
+      "assets/products/cloud-fringe-scarf-hd-18.webp",
+      "assets/products/cloud-fringe-scarf-hd-19.webp",
+      "assets/products/cloud-fringe-scarf-hd-20.webp",
+      "assets/products/cloud-fringe-scarf-hd-21.webp",
+      "assets/products/cloud-fringe-scarf-hd-22.webp",
+      "assets/products/cloud-fringe-scarf-hd-23.webp"
     ],
-    "thumbnail": "assets/products/cloud-fringe-scarf-01-small.webp",
+    "thumbnail": "assets/products/cloud-fringe-scarf-hd-01-small.webp",
     "detailsEn": [
-      "A long rectangular shape with fringe at the ends.",
-      "The gallery includes worn views and folded product photographs.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "A long scarf with a brushed-looking surface and fringe at the ends.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
     ],
     "detailsZh": [
-      "长方形围裹轮廓，两端带流苏。",
-      "图库包含上身搭配及折叠平铺照片。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "长围巾带细绒感织面，两端以流苏收尾。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
     ],
     "visualTagsEn": [
-      "fringe",
-      "light blue",
-      "cream",
-      "green",
-      "yellow",
-      "pink",
-      "scarf"
+      "Glacier blue",
+      "Off-white",
+      "Matcha green",
+      "scarves"
     ],
     "visualTagsZh": [
-      "流苏",
-      "浅蓝",
+      "冰川蓝",
       "米白",
-      "绿色",
-      "黄色",
-      "粉色",
+      "抹茶绿",
       "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Glacier blue",
+        "nameZh": "冰川蓝",
+        "image": "assets/products/cloud-fringe-scarf-hd-01.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Off-white",
+        "nameZh": "米白",
+        "image": "assets/products/cloud-fringe-scarf-hd-02.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Matcha green",
+        "nameZh": "抹茶绿",
+        "image": null,
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
     ]
   },
   {
@@ -99,44 +159,68 @@
     "name": "Weekend Stripe Scarf",
     "nameZh": "周末条纹围巾",
     "category": "Scarves",
-    "description": "Regular stripes bring a graphic detail to simple outfits. A long, straight shape with ribbed ends.",
-    "descriptionZh": "规则条纹给简洁穿搭添一点变化，长直线条配以罗纹收边。",
+    "description": "Horizontal stripes run across a long, narrow knit scarf.",
+    "descriptionZh": "横向条纹排列在细长针织围巾上。",
     "images": [
-      "assets/products/weekend-stripe-scarf-01.webp",
-      "assets/products/weekend-stripe-scarf-02.webp",
-      "assets/products/weekend-stripe-scarf-03.webp",
-      "assets/products/weekend-stripe-scarf-04.webp",
-      "assets/products/weekend-stripe-scarf-05.webp",
-      "assets/products/weekend-stripe-scarf-06.webp"
+      "assets/products/weekend-stripe-scarf-hd-01.webp",
+      "assets/products/weekend-stripe-scarf-hd-02.webp",
+      "assets/products/weekend-stripe-scarf-hd-03.webp",
+      "assets/products/weekend-stripe-scarf-hd-04.webp",
+      "assets/products/weekend-stripe-scarf-hd-06.webp",
+      "assets/products/weekend-stripe-scarf-hd-07.webp",
+      "assets/products/weekend-stripe-scarf-hd-08.webp",
+      "assets/products/weekend-stripe-scarf-hd-09.webp",
+      "assets/products/weekend-stripe-scarf-hd-10.webp",
+      "assets/products/weekend-stripe-scarf-hd-11.webp",
+      "assets/products/weekend-stripe-scarf-hd-12.webp",
+      "assets/products/weekend-stripe-scarf-hd-13.webp",
+      "assets/products/weekend-stripe-scarf-hd-14.webp"
     ],
-    "thumbnail": "assets/products/weekend-stripe-scarf-01-small.webp",
+    "thumbnail": "assets/products/weekend-stripe-scarf-hd-01-small.webp",
     "detailsEn": [
-      "Horizontal stripes run across the scarf.",
-      "A straight profile and ribbed finish are visible in the photographs.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "Horizontal stripes run across a long, narrow knit scarf.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
     ],
     "detailsZh": [
-      "横向条纹贯穿围巾。",
-      "照片可见长直廓形与罗纹收边。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "横向条纹排列在细长针织围巾上。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
     ],
     "visualTagsEn": [
-      "stripes",
-      "red",
-      "green",
-      "camel",
-      "black",
-      "scarf"
+      "Black",
+      "Red",
+      "Khaki",
+      "scarves"
     ],
     "visualTagsZh": [
-      "条纹",
-      "红色",
-      "绿色",
-      "卡其",
       "黑色",
+      "红色",
+      "卡其",
       "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Black",
+        "nameZh": "黑色",
+        "image": "assets/products/weekend-stripe-scarf-hd-04.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Red",
+        "nameZh": "红色",
+        "image": "assets/products/weekend-stripe-scarf-hd-01.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Khaki",
+        "nameZh": "卡其",
+        "image": "assets/products/weekend-stripe-scarf-hd-03.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
     ]
   },
   {
@@ -144,128 +228,825 @@
     "name": "Colourblock Stripe Scarf",
     "nameZh": "撞色条纹围巾",
     "category": "Scarves",
-    "description": "Different colour sections and contrasting stripes add an expressive detail to a simple outfit.",
-    "descriptionZh": "不同色段与撞色条纹组合，给简单的穿搭加一个亮点。",
+    "description": "Colourful stripe combinations and a fuzzy-looking knit surface.",
+    "descriptionZh": "不同颜色的条纹组合，搭配绒感针织表面。",
     "images": [
-      "assets/products/color-study-scarf-01.webp",
-      "assets/products/color-study-scarf-02.webp",
-      "assets/products/color-study-scarf-03.webp",
-      "assets/products/color-study-scarf-04.webp",
-      "assets/products/color-study-scarf-05.webp",
-      "assets/products/color-study-scarf-06.webp"
+      "assets/products/color-study-scarf-hd-01.webp",
+      "assets/products/color-study-scarf-hd-02.webp",
+      "assets/products/color-study-scarf-hd-03.webp",
+      "assets/products/color-study-scarf-hd-04.webp",
+      "assets/products/color-study-scarf-hd-06.webp",
+      "assets/products/color-study-scarf-hd-07.webp",
+      "assets/products/color-study-scarf-hd-08.webp",
+      "assets/products/color-study-scarf-hd-09.webp",
+      "assets/products/color-study-scarf-hd-10.webp",
+      "assets/products/color-study-scarf-hd-11.webp",
+      "assets/products/color-study-scarf-hd-12.webp",
+      "assets/products/color-study-scarf-hd-13.webp"
     ],
-    "thumbnail": "assets/products/color-study-scarf-01-small.webp",
+    "thumbnail": "assets/products/color-study-scarf-hd-01-small.webp",
     "detailsEn": [
-      "A narrow, elongated shape with contrasting striped sections.",
-      "The photographs show a textured, fuzzy-looking surface.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "Colourful stripe combinations and a fuzzy-looking knit surface.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
     ],
     "detailsZh": [
-      "细长轮廓，不同色段以条纹相接。",
-      "照片可见带绒感的表面纹理。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "不同颜色的条纹组合，搭配绒感针织表面。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
     ],
     "visualTagsEn": [
-      "multicolour",
-      "stripes",
-      "blue",
-      "green",
-      "pink",
-      "scarf"
+      "Light blue & green",
+      "Olive & pink",
+      "Orange & green",
+      "scarves"
     ],
     "visualTagsZh": [
-      "多色",
-      "条纹",
-      "蓝色",
-      "绿色",
-      "粉色",
+      "浅蓝绿",
+      "军绿粉",
+      "橘绿",
       "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Light blue & green",
+        "nameZh": "浅蓝绿",
+        "image": "assets/products/color-study-scarf-hd-01.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Olive & pink",
+        "nameZh": "军绿粉",
+        "image": "assets/products/color-study-scarf-hd-02.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Orange & green",
+        "nameZh": "橘绿",
+        "image": "assets/products/color-study-scarf-hd-09.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
     ]
   },
   {
-    "id": "library-check-scarf",
-    "name": "Cocoa Check Scarf",
-    "nameZh": "黑棕格纹围巾",
+    "id": "woodland-jacquard-scarf",
+    "name": "Woodland Jacquard Scarf",
+    "nameZh": "林间提花围巾",
     "category": "Scarves",
-    "description": "A dark check pattern and fringed edges, styled with shirts, knitwear and outer layers.",
-    "descriptionZh": "深色格纹配流苏边缘，与衬衫、针织衫和外套搭配。",
+    "description": "A narrow patterned scarf with small woodland motifs and a decorative edge.",
+    "descriptionZh": "窄长围巾布满小巧林间图案，边缘带装饰细节。",
     "images": [
-      "assets/products/library-check-scarf-01.webp",
-      "assets/products/library-check-scarf-02.webp",
-      "assets/products/library-check-scarf-03.webp",
-      "assets/products/library-check-scarf-04.webp",
-      "assets/products/library-check-scarf-05.webp"
+      "assets/products/woodland-jacquard-scarf-hd-01.webp",
+      "assets/products/woodland-jacquard-scarf-hd-02.webp",
+      "assets/products/woodland-jacquard-scarf-hd-03.webp",
+      "assets/products/woodland-jacquard-scarf-hd-04.webp",
+      "assets/products/woodland-jacquard-scarf-hd-06.webp",
+      "assets/products/woodland-jacquard-scarf-hd-07.webp"
     ],
-    "thumbnail": "assets/products/library-check-scarf-01-small.webp",
+    "thumbnail": "assets/products/woodland-jacquard-scarf-hd-01-small.webp",
     "detailsEn": [
-      "A small-scale check pattern in a dark palette.",
-      "Fringed edges are visible in the folded product photograph.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "A narrow patterned scarf with small woodland motifs and a decorative edge.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
     ],
     "detailsZh": [
-      "深色调的小格纹图案。",
-      "折叠平铺图可见流苏边缘。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "窄长围巾布满小巧林间图案，边缘带装饰细节。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
     ],
     "visualTagsEn": [
-      "check",
-      "brown",
-      "black",
-      "fringe",
-      "scarf"
+      "Black",
+      "Brown",
+      "scarves"
     ],
     "visualTagsZh": [
-      "格纹",
-      "棕色",
       "黑色",
-      "流苏",
+      "咖色",
       "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Black",
+        "nameZh": "黑色",
+        "image": "assets/products/woodland-jacquard-scarf-hd-01.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Brown",
+        "nameZh": "咖色",
+        "image": "assets/products/woodland-jacquard-scarf-hd-02.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
     ]
   },
   {
-    "id": "argyle-skinny-scarf",
-    "name": "Argyle Skinny Scarf",
-    "nameZh": "菱格细长围巾",
+    "id": "triangle-neck-scarf",
+    "name": "Triangle Neck Scarf",
+    "nameZh": "三角针织围巾",
     "category": "Scarves",
-    "description": "A narrow profile and diamond pattern, worn as a decorative finishing layer.",
-    "descriptionZh": "细长比例与菱格图案，作为日常穿搭中的一条装饰线索。",
+    "description": "A triangular knit scarf shown tied around the head and neck.",
+    "descriptionZh": "三角针织围巾，照片展示头颈周围的系戴方式。",
     "images": [
-      "assets/products/argyle-skinny-scarf-01.webp",
-      "assets/products/argyle-skinny-scarf-02.webp",
-      "assets/products/argyle-skinny-scarf-03.webp",
-      "assets/products/argyle-skinny-scarf-04.webp",
-      "assets/products/argyle-skinny-scarf-05.webp"
+      "assets/products/triangle-neck-scarf-main.webp"
     ],
-    "thumbnail": "assets/products/argyle-skinny-scarf-01-small.webp",
+    "thumbnail": "assets/products/triangle-neck-scarf-main-small.webp",
     "detailsEn": [
-      "A slim, long silhouette with diamond patterning.",
-      "The ends include a visible fringe detail.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "A triangular knit scarf shown tied around the head and neck.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "The earlier listing title described 12 colours; other suggested shades still need to be checked."
     ],
     "detailsZh": [
-      "细窄长条廓形，带有菱格图案。",
-      "两端可见流苏细节。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "三角针织围巾，照片展示头颈周围的系戴方式。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "早前商品标题写有 12 色，其他拟询颜色是否可供仍待确认。"
     ],
     "visualTagsEn": [
-      "diamond pattern",
-      "brown",
-      "narrow",
-      "fringe",
-      "scarf"
+      "Blue",
+      "scarves"
     ],
     "visualTagsZh": [
-      "菱格",
-      "咖色",
-      "细长",
-      "流苏",
+      "蓝色",
       "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Grey (to ask)",
+        "nameZh": "灰色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "long-tassel-scarf",
+    "name": "Long Tassel Scarf",
+    "nameZh": "长流苏针织围巾",
+    "category": "Scarves",
+    "description": "A long knit scarf finished with distinct tassels at both ends.",
+    "descriptionZh": "长条针织围巾，两端以明显的长流苏收尾。",
+    "images": [
+      "assets/products/long-tassel-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/long-tassel-scarf-main-small.webp",
+    "detailsEn": [
+      "A long knit scarf finished with distinct tassels at both ends.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "The earlier listing title described 12 colours; other suggested shades still need to be checked."
+    ],
+    "detailsZh": [
+      "长条针织围巾，两端以明显的长流苏收尾。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "早前商品标题写有 12 色，其他拟询颜色是否可供仍待确认。"
+    ],
+    "visualTagsEn": [
+      "Mustard yellow",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "芥末黄",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Mustard yellow",
+        "nameZh": "芥末黄",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Berry red (to ask)",
+        "nameZh": "莓红色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "heather-fringe-scarf",
+    "name": "Heather Fringe Scarf",
+    "nameZh": "杂色流苏围巾",
+    "category": "Scarves",
+    "description": "A fringed scarf shown in a group of light and deep colours.",
+    "descriptionZh": "带流苏的围巾同框展示浅色与深色搭配。",
+    "images": [
+      "assets/products/heather-fringe-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/heather-fringe-scarf-main-small.webp",
+    "detailsEn": [
+      "A fringed scarf shown in a group of light and deep colours.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "带流苏的围巾同框展示浅色与深色搭配。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Blue",
+      "Grey",
+      "Yellow",
+      "Pink",
+      "深红色",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "蓝色",
+      "灰色",
+      "黄色",
+      "粉色",
+      "深红色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Grey",
+        "nameZh": "灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Pink",
+        "nameZh": "粉色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "simple-knit-scarf",
+    "name": "Simple Knit Scarf",
+    "nameZh": "简约针织围巾",
+    "category": "Scarves",
+    "description": "A straight, plain knit scarf shown folded and wrapped in several colours.",
+    "descriptionZh": "简洁的长条针织围巾，实拍展示不同颜色的折叠与围绕方式。",
+    "images": [
+      "assets/products/simple-knit-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/simple-knit-scarf-main-small.webp",
+    "detailsEn": [
+      "A straight, plain knit scarf shown folded and wrapped in several colours.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "简洁的长条针织围巾，实拍展示不同颜色的折叠与围绕方式。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Yellow",
+      "Blue",
+      "Pink",
+      "Grey",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "黄色",
+      "蓝色",
+      "粉色",
+      "灰色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Pink",
+        "nameZh": "粉色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Grey",
+        "nameZh": "灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "little-triangle-scarf",
+    "name": "Little Triangle Scarf",
+    "nameZh": "轻巧三角围巾",
+    "category": "Scarves",
+    "description": "A compact triangular scarf with pointed ends for tying.",
+    "descriptionZh": "紧凑的三角轮廓，两端尖角便于打结搭配。",
+    "images": [
+      "assets/products/little-triangle-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/little-triangle-scarf-main-small.webp",
+    "detailsEn": [
+      "A compact triangular scarf with pointed ends for tying.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "紧凑的三角轮廓，两端尖角便于打结搭配。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Grey",
+      "Brown",
+      "Blue",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "灰色",
+      "棕色",
+      "蓝色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Grey",
+        "nameZh": "灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Brown",
+        "nameZh": "棕色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "airy-fringe-scarf",
+    "name": "Airy Fringe Scarf",
+    "nameZh": "轻绒流苏围巾",
+    "category": "Scarves",
+    "description": "A long scarf with fringe and a fine, textured surface.",
+    "descriptionZh": "长围巾带流苏收尾，表面有细密绒感纹理。",
+    "images": [
+      "assets/products/airy-fringe-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/airy-fringe-scarf-main-small.webp",
+    "detailsEn": [
+      "A long scarf with fringe and a fine, textured surface.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "长围巾带流苏收尾，表面有细密绒感纹理。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Blue",
+      "Light grey",
+      "Brown",
+      "Cream",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "蓝色",
+      "浅灰色",
+      "棕色",
+      "奶油色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Light grey",
+        "nameZh": "浅灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Brown",
+        "nameZh": "棕色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "cable-knit-scarf",
+    "name": "Cable Knit Scarf",
+    "nameZh": "绞花针织围巾",
+    "category": "Scarves",
+    "description": "Long, narrow scarves with visible raised cable patterns.",
+    "descriptionZh": "长窄围巾带立体绞花纹理，可细看针法。",
+    "images": [
+      "assets/products/cable-knit-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/cable-knit-scarf-main-small.webp",
+    "detailsEn": [
+      "Long, narrow scarves with visible raised cable patterns.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "长窄围巾带立体绞花纹理，可细看针法。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Blue",
+      "Pink",
+      "Cream",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "蓝色",
+      "粉色",
+      "奶油色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Pink",
+        "nameZh": "粉色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream",
+        "nameZh": "奶油色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "curl-knit-scarf",
+    "name": "Curl Knit Scarf",
+    "nameZh": "卷纹针织围巾",
+    "category": "Scarves",
+    "description": "A straight scarf with a looped-looking, textured knit surface.",
+    "descriptionZh": "长直轮廓的围巾，表面呈卷纹状针织纹理。",
+    "images": [
+      "assets/products/curl-knit-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/curl-knit-scarf-main-small.webp",
+    "detailsEn": [
+      "A straight scarf with a looped-looking, textured knit surface.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "长直轮廓的围巾，表面呈卷纹状针织纹理。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Blue",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "蓝色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Grey (to ask)",
+        "nameZh": "灰色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "soft-long-scarf",
+    "name": "Soft Long Scarf",
+    "nameZh": "轻绒长围巾",
+    "category": "Scarves",
+    "description": "A long plain scarf with a lightly textured surface.",
+    "descriptionZh": "长条纯色围巾，表面带细微针织纹理。",
+    "images": [
+      "assets/products/soft-long-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/soft-long-scarf-main-small.webp",
+    "detailsEn": [
+      "A long plain scarf with a lightly textured surface.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "长条纯色围巾，表面带细微针织纹理。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Charcoal",
+      "Light beige",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "深灰色",
+      "浅米色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Charcoal",
+        "nameZh": "深灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Light beige",
+        "nameZh": "浅米色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "wide-fringe-scarf",
+    "name": "Wide Fringe Scarf",
+    "nameZh": "宽幅流苏围巾",
+    "category": "Scarves",
+    "description": "A broad, fringed scarf shown in a light green and a bright red.",
+    "descriptionZh": "宽幅流苏围巾，原图同框展示浅绿色与红色。",
+    "images": [
+      "assets/products/wide-fringe-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/wide-fringe-scarf-main-small.webp",
+    "detailsEn": [
+      "A broad, fringed scarf shown in a light green and a bright red.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "宽幅流苏围巾，原图同框展示浅绿色与红色。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Light green",
+      "Red",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "浅绿色",
+      "红色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Light green",
+        "nameZh": "浅绿色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Red",
+        "nameZh": "红色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "border-triangle-scarf",
+    "name": "Border Triangle Scarf",
+    "nameZh": "锁边三角围巾",
+    "category": "Scarves",
+    "description": "A triangular scarf with a contrasting outline along the edge.",
+    "descriptionZh": "三角轮廓沿边缘配有撞色锁边线。",
+    "images": [
+      "assets/products/border-triangle-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/border-triangle-scarf-main-small.webp",
+    "detailsEn": [
+      "A triangular scarf with a contrasting outline along the edge.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "三角轮廓沿边缘配有撞色锁边线。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Grey with blue edging",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "灰色配蓝边",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Grey with blue edging",
+        "nameZh": "灰色配蓝边",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream with dark edging (to ask)",
+        "nameZh": "奶油色配深边（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "short-rib-scarf",
+    "name": "Short Rib Scarf",
+    "nameZh": "短款罗纹围巾",
+    "category": "Scarves",
+    "description": "A compact scarf with distinct vertical ribbing.",
+    "descriptionZh": "较紧凑的围巾轮廓，表面有清楚的竖向罗纹。",
+    "images": [
+      "assets/products/short-rib-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/short-rib-scarf-main-small.webp",
+    "detailsEn": [
+      "A compact scarf with distinct vertical ribbing.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "较紧凑的围巾轮廓，表面有清楚的竖向罗纹。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Blue",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "蓝色",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Grey (to ask)",
+        "nameZh": "灰色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "pastel-check-scarf",
+    "name": "Pastel Check Scarf",
+    "nameZh": "柔彩格纹围巾",
+    "category": "Scarves",
+    "description": "A broad scarf patterned with large pastel checks.",
+    "descriptionZh": "较宽的围巾以柔和颜色组成大格纹。",
+    "images": [
+      "assets/products/pastel-check-scarf-main.webp"
+    ],
+    "thumbnail": "assets/products/pastel-check-scarf-main-small.webp",
+    "detailsEn": [
+      "A broad scarf patterned with large pastel checks.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "较宽的围巾以柔和颜色组成大格纹。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Pink, blue & yellow check",
+      "scarves"
+    ],
+    "visualTagsZh": [
+      "粉蓝黄格纹",
+      "围巾"
+    ],
+    "colorOptions": [
+      {
+        "name": "Pink, blue & yellow check",
+        "nameZh": "粉蓝黄格纹",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream & grey check (to ask)",
+        "nameZh": "奶油灰格纹（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
     ]
   },
   {
@@ -273,47 +1054,77 @@
     "name": "Foldover Beanie",
     "nameZh": "翻边针织帽",
     "category": "Hats",
-    "description": "A rounded crown and broad folded brim add a simple finishing shape to everyday dressing.",
-    "descriptionZh": "圆形帽冠与宽翻边，为日常穿搭添一个简洁的收尾。",
+    "description": "A round-crown knit beanie with a generous folded brim.",
+    "descriptionZh": "圆顶针织帽配宽翻边，可细看针织纹理与帽型。",
     "images": [
-      "assets/products/foldover-beanie-01.webp",
-      "assets/products/foldover-beanie-02.webp",
-      "assets/products/foldover-beanie-03.webp",
-      "assets/products/foldover-beanie-04.webp",
-      "assets/products/foldover-beanie-05.webp",
-      "assets/products/foldover-beanie-06.webp",
-      "assets/products/foldover-beanie-07.webp"
+      "assets/products/foldover-beanie-hd-01.webp",
+      "assets/products/foldover-beanie-hd-02.webp",
+      "assets/products/foldover-beanie-hd-03.webp",
+      "assets/products/foldover-beanie-hd-04.webp",
+      "assets/products/foldover-beanie-hd-06.webp",
+      "assets/products/foldover-beanie-hd-07.webp",
+      "assets/products/foldover-beanie-hd-08.webp",
+      "assets/products/foldover-beanie-hd-09.webp",
+      "assets/products/foldover-beanie-hd-10.webp",
+      "assets/products/foldover-beanie-hd-11.webp",
+      "assets/products/foldover-beanie-hd-12.webp",
+      "assets/products/foldover-beanie-hd-13.webp"
     ],
-    "thumbnail": "assets/products/foldover-beanie-01-small.webp",
+    "thumbnail": "assets/products/foldover-beanie-hd-01-small.webp",
     "detailsEn": [
-      "A rounded beanie shape with a wide folded brim.",
-      "The gallery shows the silhouette from worn and laid-flat views.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "A round-crown knit beanie with a generous folded brim.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
     ],
     "detailsZh": [
-      "圆形针织帽轮廓，搭配宽翻折帽沿。",
-      "图库包含上身与平铺角度。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "圆顶针织帽配宽翻边，可细看针织纹理与帽型。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
     ],
     "visualTagsEn": [
-      "beanie",
-      "folded brim",
-      "blue",
-      "cream",
-      "yellow",
-      "brown",
-      "grey"
+      "Off-white",
+      "Pink",
+      "Lake green",
+      "Blue",
+      "Butter yellow",
+      "Lilac",
+      "Dark grey",
+      "Dark brown",
+      "hats"
     ],
     "visualTagsZh": [
-      "针织帽",
-      "翻边",
-      "蓝色",
       "米白",
-      "黄色",
-      "棕色",
-      "灰色"
+      "粉色",
+      "湖绿",
+      "蓝色",
+      "奶黄",
+      "浅紫",
+      "深灰",
+      "深咖",
+      "帽子"
+    ],
+    "colorOptions": [
+      {
+        "name": "Off-white",
+        "nameZh": "米白",
+        "image": "assets/products/foldover-beanie-hd-02.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": "assets/products/foldover-beanie-hd-01.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Dark grey",
+        "nameZh": "深灰",
+        "image": "assets/products/foldover-beanie-hd-12.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
     ]
   },
   {
@@ -321,45 +1132,657 @@
     "name": "Roll-Edge Beanie",
     "nameZh": "卷边针织帽",
     "category": "Hats",
-    "description": "A simple knitted profile with a gently rolled edge, styled with solid or patterned scarves.",
-    "descriptionZh": "简洁的针织轮廓，帽沿保留自然卷边，适合搭配纯色或图案围巾。",
+    "description": "A simple knit beanie with a close profile and gently rolled edge.",
+    "descriptionZh": "轮廓简洁的针织帽，帽口呈自然卷边。",
     "images": [
-      "assets/products/roll-edge-beanie-01.webp",
-      "assets/products/roll-edge-beanie-02.webp",
-      "assets/products/roll-edge-beanie-03.webp",
-      "assets/products/roll-edge-beanie-04.webp",
-      "assets/products/roll-edge-beanie-05.webp",
-      "assets/products/roll-edge-beanie-06.webp",
-      "assets/products/roll-edge-beanie-07.webp"
+      "assets/products/roll-edge-beanie-hd-01.webp",
+      "assets/products/roll-edge-beanie-hd-02.webp",
+      "assets/products/roll-edge-beanie-hd-03.webp",
+      "assets/products/roll-edge-beanie-hd-04.webp",
+      "assets/products/roll-edge-beanie-hd-06.webp",
+      "assets/products/roll-edge-beanie-hd-07.webp",
+      "assets/products/roll-edge-beanie-hd-08.webp",
+      "assets/products/roll-edge-beanie-hd-09.webp",
+      "assets/products/roll-edge-beanie-hd-10.webp",
+      "assets/products/roll-edge-beanie-hd-11.webp",
+      "assets/products/roll-edge-beanie-hd-12.webp",
+      "assets/products/roll-edge-beanie-hd-13.webp",
+      "assets/products/roll-edge-beanie-hd-14.webp",
+      "assets/products/roll-edge-beanie-hd-15.webp",
+      "assets/products/roll-edge-beanie-hd-16.webp"
     ],
-    "thumbnail": "assets/products/roll-edge-beanie-01-small.webp",
+    "thumbnail": "assets/products/roll-edge-beanie-hd-01-small.webp",
     "detailsEn": [
-      "A close beanie silhouette with a small rolled edge.",
-      "The photographs show a fine-knit appearance.",
-      "Fibre composition, measurements and care instructions will be confirmed before launch.",
-      "Photographs show styling examples. The final launch selection will be announced separately."
+      "A simple knit beanie with a close profile and gently rolled edge.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
     ],
     "detailsZh": [
-      "简洁帽型，帽沿可见小幅自然卷边。",
-      "照片呈现较细密的针织纹理。",
-      "材质成分、实际尺寸与洗护方式将在正式发售前确认。",
-      "照片用于展示搭配效果，正式发售配色将另行公布。"
+      "轮廓简洁的针织帽，帽口呈自然卷边。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
     ],
     "visualTagsEn": [
-      "beanie",
-      "rolled edge",
-      "blue",
-      "navy",
-      "grey",
-      "cream"
+      "Navy",
+      "Black",
+      "Brown",
+      "Khaki",
+      "Off-white",
+      "Pale pink",
+      "Light grey",
+      "Pale blue",
+      "Carbon black",
+      "Mid grey",
+      "Oat",
+      "hats"
     ],
     "visualTagsZh": [
-      "针织帽",
-      "卷边",
-      "蓝色",
       "藏青",
+      "黑色",
+      "咖色",
+      "卡其",
+      "米白",
+      "浅粉",
+      "浅灰",
+      "浅蓝",
+      "碳黑",
+      "中灰",
+      "燕麦",
+      "帽子"
+    ],
+    "colorOptions": [
+      {
+        "name": "Navy",
+        "nameZh": "藏青",
+        "image": null,
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Off-white",
+        "nameZh": "米白",
+        "image": "assets/products/roll-edge-beanie-hd-04.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Mid grey",
+        "nameZh": "中灰",
+        "image": "assets/products/roll-edge-beanie-hd-03.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
+    ]
+  },
+  {
+    "id": "sunflower-beanie",
+    "name": "Sunflower Beanie",
+    "nameZh": "小太阳花针织帽",
+    "category": "Hats",
+    "description": "A folded knit beanie with a small flower motif.",
+    "descriptionZh": "翻边针织帽配一朵小巧花形装饰。",
+    "images": [
+      "assets/products/sunflower-beanie-main.webp"
+    ],
+    "thumbnail": "assets/products/sunflower-beanie-main-small.webp",
+    "detailsEn": [
+      "A folded knit beanie with a small flower motif.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "翻边针织帽配一朵小巧花形装饰。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Blue",
+      "hats"
+    ],
+    "visualTagsZh": [
+      "蓝色",
+      "帽子"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Pale pink (to ask)",
+        "nameZh": "浅粉（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "hooded-knit-bonnet",
+    "name": "Hooded Knit Bonnet",
+    "nameZh": "连颈针织帽",
+    "category": "Hats",
+    "description": "A knit hood shape that extends below the chin around the neck.",
+    "descriptionZh": "连帽式针织轮廓向下延伸，围住头颈周围。",
+    "images": [
+      "assets/products/hooded-knit-bonnet-main.webp"
+    ],
+    "thumbnail": "assets/products/hooded-knit-bonnet-main-small.webp",
+    "detailsEn": [
+      "A knit hood shape that extends below the chin around the neck.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "连帽式针织轮廓向下延伸，围住头颈周围。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Pink",
+      "hats"
+    ],
+    "visualTagsZh": [
+      "粉色",
+      "帽子"
+    ],
+    "colorOptions": [
+      {
+        "name": "Pink",
+        "nameZh": "粉色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Light grey (to ask)",
+        "nameZh": "浅灰（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "tie-knit-bonnet",
+    "name": "Tie Knit Bonnet",
+    "nameZh": "系带针织帽",
+    "category": "Hats",
+    "description": "A close-fitting bonnet shape with ties beside the face.",
+    "descriptionZh": "贴近头部的帽形，两侧有系带细节。",
+    "images": [
+      "assets/products/tie-knit-bonnet-main.webp"
+    ],
+    "thumbnail": "assets/products/tie-knit-bonnet-main-small.webp",
+    "detailsEn": [
+      "A close-fitting bonnet shape with ties beside the face.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "贴近头部的帽形，两侧有系带细节。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Teal",
+      "hats"
+    ],
+    "visualTagsZh": [
+      "蓝绿色",
+      "帽子"
+    ],
+    "colorOptions": [
+      {
+        "name": "Teal",
+        "nameZh": "蓝绿色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Grey (to ask)",
+        "nameZh": "灰色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "fine-stripe-beanie",
+    "name": "Fine Stripe Beanie",
+    "nameZh": "细条纹针织帽",
+    "category": "Hats",
+    "description": "Fine horizontal stripes across a knit beanie with a folded edge.",
+    "descriptionZh": "细横条纹排列在针织帽上，帽口带翻边。",
+    "images": [
+      "assets/products/fine-stripe-beanie-main.webp"
+    ],
+    "thumbnail": "assets/products/fine-stripe-beanie-main-small.webp",
+    "detailsEn": [
+      "Fine horizontal stripes across a knit beanie with a folded edge.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "细横条纹排列在针织帽上，帽口带翻边。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Navy & pink stripe",
+      "hats"
+    ],
+    "visualTagsZh": [
+      "藏蓝粉条纹",
+      "帽子"
+    ],
+    "colorOptions": [
+      {
+        "name": "Navy & pink stripe",
+        "nameZh": "藏蓝粉条纹",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Grey & cream stripe (to ask)",
+        "nameZh": "灰米条纹（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "bird-jacquard-beanie",
+    "name": "Bird Jacquard Beanie",
+    "nameZh": "小鸟提花针织帽",
+    "category": "Hats",
+    "description": "A knit beanie with small bird motifs across the crown.",
+    "descriptionZh": "针织帽表面以小鸟图案作点缀。",
+    "images": [
+      "assets/products/bird-jacquard-beanie-main.webp"
+    ],
+    "thumbnail": "assets/products/bird-jacquard-beanie-main-small.webp",
+    "detailsEn": [
+      "A knit beanie with small bird motifs across the crown.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options.",
+      "Only the photographed shade is documented so far. Other shades are colour enquiries."
+    ],
+    "detailsZh": [
+      "针织帽表面以小鸟图案作点缀。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。",
+      "目前只记录到照片所示配色，其他颜色仅作为询色意向。"
+    ],
+    "visualTagsEn": [
+      "Grey",
+      "hats"
+    ],
+    "visualTagsZh": [
       "灰色",
-      "米白"
+      "帽子"
+    ],
+    "colorOptions": [
+      {
+        "name": "Grey",
+        "nameZh": "灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream (to ask)",
+        "nameZh": "奶油色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      },
+      {
+        "name": "Blue (to ask)",
+        "nameZh": "蓝色（待询）",
+        "image": null,
+        "referenceKind": "proposed",
+        "evidenceLabel": "拟向供应商询色，不代表有售 / Colour enquiry; not confirmed"
+      }
+    ]
+  },
+  {
+    "id": "everyday-knit-gloves",
+    "name": "Everyday Knit Gloves",
+    "nameZh": "日常针织手套",
+    "category": "Gloves",
+    "description": "Five-finger knit gloves with extended ribbed cuffs.",
+    "descriptionZh": "五指轮廓的针织手套，袖口带延伸罗纹。",
+    "images": [
+      "assets/products/everyday-knit-gloves-hd-01.webp",
+      "assets/products/everyday-knit-gloves-hd-02.webp",
+      "assets/products/everyday-knit-gloves-hd-03.webp",
+      "assets/products/everyday-knit-gloves-hd-04.webp",
+      "assets/products/everyday-knit-gloves-hd-06.webp",
+      "assets/products/everyday-knit-gloves-hd-07.webp",
+      "assets/products/everyday-knit-gloves-hd-08.webp",
+      "assets/products/everyday-knit-gloves-hd-09.webp",
+      "assets/products/everyday-knit-gloves-hd-10.webp"
+    ],
+    "thumbnail": "assets/products/everyday-knit-gloves-hd-01-small.webp",
+    "detailsEn": [
+      "Five-finger knit gloves with extended ribbed cuffs.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "五指轮廓的针织手套，袖口带延伸罗纹。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Lake green",
+      "Blue",
+      "Off-white",
+      "Light grey",
+      "Lilac",
+      "Black",
+      "gloves"
+    ],
+    "visualTagsZh": [
+      "湖绿",
+      "蓝色",
+      "米白",
+      "浅灰",
+      "浅紫",
+      "黑色",
+      "手套"
+    ],
+    "colorOptions": [
+      {
+        "name": "Blue",
+        "nameZh": "蓝色",
+        "image": "assets/products/everyday-knit-gloves-hd-02.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Off-white",
+        "nameZh": "米白",
+        "image": "assets/products/everyday-knit-gloves-hd-04.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      },
+      {
+        "name": "Light grey",
+        "nameZh": "浅灰",
+        "image": "assets/products/everyday-knit-gloves-hd-09.webp",
+        "referenceKind": "source-option",
+        "evidenceLabel": "供应商页面色名，SKU待核 / Listed name; SKU unverified"
+      }
+    ]
+  },
+  {
+    "id": "cable-knit-gloves",
+    "name": "Cable Knit Gloves",
+    "nameZh": "麻花针织手套",
+    "category": "Gloves",
+    "description": "Five-finger gloves with raised cable patterns on the back.",
+    "descriptionZh": "五指针织手套，手背带立体麻花纹理。",
+    "images": [
+      "assets/products/cable-knit-gloves-main.webp"
+    ],
+    "thumbnail": "assets/products/cable-knit-gloves-main-small.webp",
+    "detailsEn": [
+      "Five-finger gloves with raised cable patterns on the back.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "五指针织手套，手背带立体麻花纹理。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Pale blue-grey",
+      "Beige",
+      "Deep brown",
+      "gloves"
+    ],
+    "visualTagsZh": [
+      "浅灰蓝色",
+      "米色",
+      "深棕色",
+      "手套"
+    ],
+    "colorOptions": [
+      {
+        "name": "Pale blue-grey",
+        "nameZh": "浅灰蓝色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Beige",
+        "nameZh": "米色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Deep brown",
+        "nameZh": "深棕色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "sparkle-knit-gloves",
+    "name": "Sparkle Knit Gloves",
+    "nameZh": "珠片针织手套",
+    "category": "Gloves",
+    "description": "Knit gloves with small decorative points across the surface.",
+    "descriptionZh": "针织手套表面带细小装饰亮点。",
+    "images": [
+      "assets/products/sparkle-knit-gloves-main.webp"
+    ],
+    "thumbnail": "assets/products/sparkle-knit-gloves-main-small.webp",
+    "detailsEn": [
+      "Knit gloves with small decorative points across the surface.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "针织手套表面带细小装饰亮点。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Red",
+      "Dusty rose",
+      "Black",
+      "Cream",
+      "gloves"
+    ],
+    "visualTagsZh": [
+      "红色",
+      "粉棕色",
+      "黑色",
+      "奶油色",
+      "手套"
+    ],
+    "colorOptions": [
+      {
+        "name": "Red",
+        "nameZh": "红色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Dusty rose",
+        "nameZh": "粉棕色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream",
+        "nameZh": "奶油色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "brushed-knit-gloves",
+    "name": "Brushed Knit Gloves",
+    "nameZh": "绒感针织手套",
+    "category": "Gloves",
+    "description": "Five-finger gloves with a fuzzy-looking knit texture.",
+    "descriptionZh": "五指手套带可见绒感织面。",
+    "images": [
+      "assets/products/brushed-knit-gloves-main.webp"
+    ],
+    "thumbnail": "assets/products/brushed-knit-gloves-main-small.webp",
+    "detailsEn": [
+      "Five-finger gloves with a fuzzy-looking knit texture.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "五指手套带可见绒感织面。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Red",
+      "Grey",
+      "Cream",
+      "gloves"
+    ],
+    "visualTagsZh": [
+      "红色",
+      "灰色",
+      "奶油色",
+      "手套"
+    ],
+    "colorOptions": [
+      {
+        "name": "Red",
+        "nameZh": "红色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Grey",
+        "nameZh": "灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Cream",
+        "nameZh": "奶油色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
+    ]
+  },
+  {
+    "id": "open-finger-gloves",
+    "name": "Open-Finger Gloves",
+    "nameZh": "露指针织手套",
+    "category": "Gloves",
+    "description": "Open-finger knit gloves with a long ribbed cuff.",
+    "descriptionZh": "露指针织手套，袖口采用较长罗纹轮廓。",
+    "images": [
+      "assets/products/open-finger-gloves-main.webp"
+    ],
+    "thumbnail": "assets/products/open-finger-gloves-main-small.webp",
+    "detailsEn": [
+      "Open-finger knit gloves with a long ribbed cuff.",
+      "Fibre composition, exact measurements and care instructions will be checked before sale.",
+      "Colour references and enquiries do not confirm supplier SKUs, stock or final launch options."
+    ],
+    "detailsZh": [
+      "露指针织手套，袖口采用较长罗纹轮廓。",
+      "材质成分、实际尺寸和洗护方式将在正式发售前确认。",
+      "颜色参考与询色意向不代表已核色号、现货或最终上架选项。"
+    ],
+    "visualTagsEn": [
+      "Butter yellow",
+      "Lilac",
+      "Grey",
+      "Blue",
+      "gloves"
+    ],
+    "visualTagsZh": [
+      "奶黄色",
+      "浅紫色",
+      "灰色",
+      "蓝色",
+      "手套"
+    ],
+    "colorOptions": [
+      {
+        "name": "Butter yellow",
+        "nameZh": "奶黄色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Lilac",
+        "nameZh": "浅紫色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      },
+      {
+        "name": "Grey",
+        "nameZh": "灰色",
+        "image": null,
+        "referenceKind": "photo-reference",
+        "evidenceLabel": "实拍视觉色名，选项待核 / Photo colour; option unverified"
+      }
     ]
   }
 ]

@@ -1,9 +1,31 @@
 id,name,name_zh,category,photo_count,lead_photo
-everyday-rib-scarf,Everyday Rib Scarf,日常罗纹围巾,Scarves,7,assets/products/everyday-rib-scarf-01.webp
-cloud-fringe-scarf,Fringe Knit Scarf,长款流苏围巾,Scarves,8,assets/products/cloud-fringe-scarf-01.webp
-weekend-stripe-scarf,Weekend Stripe Scarf,周末条纹围巾,Scarves,6,assets/products/weekend-stripe-scarf-01.webp
-color-study-scarf,Colourblock Stripe Scarf,撞色条纹围巾,Scarves,6,assets/products/color-study-scarf-01.webp
-library-check-scarf,Cocoa Check Scarf,黑棕格纹围巾,Scarves,5,assets/products/library-check-scarf-01.webp
-argyle-skinny-scarf,Argyle Skinny Scarf,菱格细长围巾,Scarves,5,assets/products/argyle-skinny-scarf-01.webp
-foldover-beanie,Foldover Beanie,翻边针织帽,Hats,7,assets/products/foldover-beanie-01.webp
-roll-edge-beanie,Roll-Edge Beanie,卷边针织帽,Hats,7,assets/products/roll-edge-beanie-01.webp
+everyday-rib-scarf,Everyday Rib Scarf,日常罗纹围巾,Scarves,19,assets/products/everyday-rib-scarf-hd-01.webp
+cloud-fringe-scarf,Fringe Knit Scarf,长款流苏围巾,Scarves,22,assets/products/cloud-fringe-scarf-hd-01.webp
+weekend-stripe-scarf,Weekend Stripe Scarf,周末条纹围巾,Scarves,13,assets/products/weekend-stripe-scarf-hd-01.webp
+color-study-scarf,Colourblock Stripe Scarf,撞色条纹围巾,Scarves,12,assets/products/color-study-scarf-hd-01.webp
+woodland-jacquard-scarf,Woodland Jacquard Scarf,林间提花围巾,Scarves,6,assets/products/woodland-jacquard-scarf-hd-01.webp
+triangle-neck-scarf,Triangle Neck Scarf,三角针织围巾,Scarves,1,assets/products/triangle-neck-scarf-main.webp
+long-tassel-scarf,Long Tassel Scarf,长流苏针织围巾,Scarves,1,assets/products/long-tassel-scarf-main.webp
+heather-fringe-scarf,Heather Fringe Scarf,杂色流苏围巾,Scarves,1,assets/products/heather-fringe-scarf-main.webp
+simple-knit-scarf,Simple Knit Scarf,简约针织围巾,Scarves,1,assets/products/simple-knit-scarf-main.webp
+little-triangle-scarf,Little Triangle Scarf,轻巧三角围巾,Scarves,1,assets/products/little-triangle-scarf-main.webp
+airy-fringe-scarf,Airy Fringe Scarf,轻绒流苏围巾,Scarves,1,assets/products/airy-fringe-scarf-main.webp
+cable-knit-scarf,Cable Knit Scarf,绞花针织围巾,Scarves,1,assets/products/cable-knit-scarf-main.webp
+curl-knit-scarf,Curl Knit Scarf,卷纹针织围巾,Scarves,1,assets/products/curl-knit-scarf-main.webp
+soft-long-scarf,Soft Long Scarf,轻绒长围巾,Scarves,1,assets/products/soft-long-scarf-main.webp
+wide-fringe-scarf,Wide Fringe Scarf,宽幅流苏围巾,Scarves,1,assets/products/wide-fringe-scarf-main.webp
+border-triangle-scarf,Border Triangle Scarf,锁边三角围巾,Scarves,1,assets/products/border-triangle-scarf-main.webp
+short-rib-scarf,Short Rib Scarf,短款罗纹围巾,Scarves,1,assets/products/short-rib-scarf-main.webp
+pastel-check-scarf,Pastel Check Scarf,柔彩格纹围巾,Scarves,1,assets/products/pastel-check-scarf-main.webp
+foldover-beanie,Foldover Beanie,翻边针织帽,Hats,12,assets/products/foldover-beanie-hd-01.webp
+roll-edge-beanie,Roll-Edge Beanie,卷边针织帽,Hats,15,assets/products/roll-edge-beanie-hd-01.webp
+sunflower-beanie,Sunflower Beanie,小太阳花针织帽,Hats,1,assets/products/sunflower-beanie-main.webp
+hooded-knit-bonnet,Hooded Knit Bonnet,连颈针织帽,Hats,1,assets/products/hooded-knit-bonnet-main.webp
+tie-knit-bonnet,Tie Knit Bonnet,系带针织帽,Hats,1,assets/products/tie-knit-bonnet-main.webp
+fine-stripe-beanie,Fine Stripe Beanie,细条纹针织帽,Hats,1,assets/products/fine-stripe-beanie-main.webp
+bird-jacquard-beanie,Bird Jacquard Beanie,小鸟提花针织帽,Hats,1,assets/products/bird-jacquard-beanie-main.webp
+everyday-knit-gloves,Everyday Knit Gloves,日常针织手套,Gloves,9,assets/products/everyday-knit-gloves-hd-01.webp
+cable-knit-gloves,Cable Knit Gloves,麻花针织手套,Gloves,1,assets/products/cable-knit-gloves-main.webp
+sparkle-knit-gloves,Sparkle Knit Gloves,珠片针织手套,Gloves,1,assets/products/sparkle-knit-gloves-main.webp
+brushed-knit-gloves,Brushed Knit Gloves,绒感针织手套,Gloves,1,assets/products/brushed-knit-gloves-main.webp
+open-finger-gloves,Open-Finger Gloves,露指针织手套,Gloves,1,assets/products/open-finger-gloves-main.webp
