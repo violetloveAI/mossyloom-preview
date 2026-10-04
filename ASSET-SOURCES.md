@@ -12,4 +12,4 @@ Eight listings have recorded supplier color options, 11 have multiple product co
 
 Product composition, measurements, final color options and inventory are awaiting confirmation. Supplier descriptions of wool percentages, designer associations and performance are not used as established product claims.
 
-The boutique logo is the existing Mossyloom wordmark selected for the fourth design. Unrelated brands’ photographs and logos are excluded.
+On October 4, 2026, the user selected the original **N04 “小针成M”** logo (also called “原版N4”). The PNG at `assets/brand/mossyloom-n04-original.png` is a byte-for-byte copy of that original, not a later extension. Its SHA256 is `4ae30098b94b3799a31614794da429e7d61c0a5faef2c0841eaad1628d53831f`. The header, footer and browser icon use this asset. Responsive CSS frames its cream background while keeping the full lettering and yarn detail visible. See [the selection record](assets/brand/selection.json). Unrelated brands’ photographs and logos are excluded.

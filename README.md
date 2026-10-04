@@ -2,6 +2,8 @@
 
 A knitwear collection preview in sky blue, cream and plum. The fourth design is now the only storefront, with 18 scarves, seven hats, five glove styles and 130 real supplier photographs.
 
+The confirmed logo is the original N04 “小针成M”, selected on October 4, 2026. Its source hash is recorded in [the logo selection record](assets/brand/selection.json).
+
 **[Open the collection preview](https://violetloveai.github.io/mossyloom-preview/)**
 
 ![Mossyloom collection preview](assets/preview.png)

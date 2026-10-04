@@ -1,0 +1,20 @@
+{
+  "brand": "Mossyloom",
+  "logoId": "N04",
+  "userAlias": "原版N4",
+  "nameZh": "小针成M",
+  "status": "user_selected_final",
+  "selectedAt": "2026-10-04",
+  "asset": "assets/brand/mossyloom-n04-original.png",
+  "originalFilename": "N04_小针成M.png",
+  "originalSha256": "4ae30098b94b3799a31614794da429e7d61c0a5faef2c0841eaad1628d53831f",
+  "dimensions": {
+    "width": 1774,
+    "height": 887
+  },
+  "notes": [
+    "Original image copied unchanged.",
+    "N04 from the no-leaf yarn series; not an N04/N10 extension.",
+    "Website framing preserves the wordmark and yarn detail."
+  ]
+}

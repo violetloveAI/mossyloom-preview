@@ -1,5 +1,5 @@
-import {storyCopy} from './story-copy.js?v=edit30-20261003';
-import {createCollection} from './collection.js?v=edit30-20261003';
+import {storyCopy} from './story-copy.js?v=n04-20261004';
+import {createCollection} from './collection.js?v=n04-20261004';
 
 const $ = selector => document.querySelector(selector);
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -28,7 +28,7 @@ const icon = name => {
 function toast(message) { const el=$('#toast'); el.textContent=message; el.classList.add('show'); clearTimeout(toast.timer); toast.timer=setTimeout(()=>el.classList.remove('show'),4500); }
 function navigate(path) { if(location.hash === '#'+path) render(true); else location.hash=path; }
 function currentRoute() { try { return decodeURI(location.hash.slice(1) || '/'); } catch { return '/not-found'; } }
-function brand() { return `<a class="brand" href="#/" aria-label="Mossyloom ${t('home','首页')}"><img src="./assets/brand/boutique.png" alt="Mossyloom" width="252" height="168"></a>`; }
+function brand() { return `<a class="brand" href="#/" aria-label="Mossyloom ${t('home','首页')}"><img src="./assets/brand/mossyloom-n04-original.png" alt="Mossyloom" width="1774" height="887"></a>`; }
 function navLinks() { return routeLink('/shop',t('The collection','精选系列'))+routeLink('/shop?category=Scarves',t('Scarves','围巾'))+routeLink('/shop?category=Hats',t('Hats','帽子'))+routeLink('/lookbook',t('Ways to wear','搭配灵感'))+routeLink('/story',t('Our story','品牌故事')); }
 function shell(content) {
   return `<div class="announcement"><span>${t('A collection in the making · Not yet open for orders','小店筹备中 · 目前尚未开放下单')}</span><button data-lang aria-label="${t('Switch to Chinese','切换为英文')}">${lang==='en'?'中文 / EN':'EN / 中文'}</button></div>
@@ -134,7 +134,7 @@ document.querySelector('.skip-link')?.addEventListener('click',event=>{event.pre
 window.addEventListener('hashchange',()=>{menuOpen=searchOpen=false;render(true);});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&(menuOpen||searchOpen)){const wasSearch=searchOpen;menuOpen=searchOpen=false;render();$(wasSearch?'[data-search]':'[data-menu]')?.focus();}});
 try {
-  const response=await fetch('./data/catalog.json?v=edit30-20261003');if(!response.ok)throw Error('Catalog unavailable');
+  const response=await fetch('./data/catalog.json?v=n04-20261004');if(!response.ok)throw Error('Catalog unavailable');
   products=await response.json();
   if(!Array.isArray(products)||!products.length)throw Error('The collection is unavailable');
   collection=createCollection({products,t,navigate,rerender:()=>render(),toast,icon,getLang:()=>lang});
